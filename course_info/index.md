@@ -7,7 +7,7 @@ layout: default
 ### Course Information
 
 - **Document:** 
-- [Course Syllabus](RAM155.Syllabus.pdf){:target="_blank"}
+    - [Course Syllabus](EET103.Syllabus.pdf){:target="_blank"}
 
 
 <!-- - [Schedule/Assignments](schedule.html) -->
