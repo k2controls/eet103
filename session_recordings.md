@@ -1,5 +1,5 @@
 ### Fall 2024
-## EET103 Section 3674 
+## EET103 Section 1868
 ### Session Recordings
 
 <!--
