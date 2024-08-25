@@ -21,7 +21,7 @@ Think about it briefly, then watch the following two videos:
 
 ***12 Volts***
 
-[![12 volt video](12_volt_video.png)](https://nmc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a294c297-0010-4748-a255-ae5a00ca4b97){:target='_blank'}
+[![12 volt video](12_volt_video.jpg)](https://nmc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a294c297-0010-4748-a255-ae5a00ca4b97){:target='_blank'}
 
 - Electric fences put out pulses of up to about 10,000 volts. In the first video, you can see that the people touching the fence were startled, but uninjured. This is because the *current* (the speed the electrons are flowing) is very small.
 
@@ -36,7 +36,7 @@ Figure 1: The effects of electrical current.
 - A current of 170 milliamps (in the first column next to Respiratory arrest) is "frequently fatal". [The prefix "milli" means 1/1000, which is the same as multiplying by 0.001. 
 - 170 milliamps is equal to 0.170 amps.] It is possible to have a high voltage but low current, like the electric fence, which is harmless. It is also possible to have a relatively low voltage, like the 12-volt car battery, but a high current. An example of a low voltage and low current source is a standard AA or D-cell battery. These are relatively safe.
 
-![alt text](electrical_shock2.png)  ![alt text](electrical_shock.jpg)
+![electrical shock image 1](electrical_shock2.png)  ![electrical shoch image 2](electrical_shock.jpg)
 
 Figure 2: The path of electrical current through the body is one factor that determines the severity of a shock.
 
@@ -55,7 +55,7 @@ Remember: Low voltage does not always mean low risk!
 
 ***Electronic Lab Safety Practices***
 
-![alt text](electrical_shock3.png)
+![electrical shock image 3](electrical_shock3.png)
 
 
 How will we be safe in the lab? Fortunately most of what we will be doing in EET103 labs will be with low power (low current & low voltage). 
@@ -69,8 +69,12 @@ Some other safe practices include:
 
 Some electronic components, such as microprocessors, can be damaged by electro-static discharge (static electricity), as the following video explains:
 
-[ElectroStatic video ](https://nmc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaab0a6b-4100-4bfd-a659-ae5a00ca4a55&instance=moodle-production){:target='_blank'}
+**ElectroStatic video**
+
+[![ElectroStatic video](electrostatic_discharge.jpg) ](https://nmc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaab0a6b-4100-4bfd-a659-ae5a00ca4a55&instance=moodle-production){:target='_blank'}
 
 With the right attitude and safety precautions, you *can* be safe around electricity!
 
-[High Voltage Lineworkers video](https://nmc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2d74a88-0fc9-497c-837f-ae5a00ca49b5){:target='_blank'}
+**High Voltage Lineworkers video**
+
+[![High Voltage Lineworkers video](high_voltage_line_worker.jpg)](https://nmc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2d74a88-0fc9-497c-837f-ae5a00ca49b5){:target='_blank'}
