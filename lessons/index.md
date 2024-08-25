@@ -7,5 +7,5 @@ layout: default
 #### Lessons
 
 - [Safety](01.safety/)
-- [Tools of the Trade][02.tools_of_the_trade/]
+- [Tools of the Trade](02.tools_of_the_trade/)
 - [Sources of Electricity](03.sources_of_electricity/)
