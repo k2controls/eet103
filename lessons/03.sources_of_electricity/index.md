@@ -4,7 +4,7 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-#### Sosurces of Electricity
+### [EET103](../../) - [Lessons](../) - Sources of Electricity
 
 **What is a circuit?**
 

@@ -4,7 +4,7 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-#### Tools of the Trade
+### [EET103](../../) - [Lessons](../) - Tools of the Trade
 
 In this unit, you will learn about some of the basic tools you will need to use in the lab.
 

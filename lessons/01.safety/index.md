@@ -4,7 +4,7 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-#### Electrical Safety
+### [EET103](../../) - [Lessons](../) - Electrical Safety
 
 In future lessons, you will learn about voltage and current. As a quick introduction, you can think of voltage as the driving *force* behind the electricity, and this driving force is measured in volts. *Current* is the speed that the electrons are flowing, and current is measured in *amperes* (or *amps*). Higher current means the electrons are moving faster.
 
