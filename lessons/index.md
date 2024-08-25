@@ -7,3 +7,4 @@ layout: default
 #### Lessons
 
 - [Safety](01.safety/)
+- [Tools of the Trade][02.tools_of_the_trade/]
