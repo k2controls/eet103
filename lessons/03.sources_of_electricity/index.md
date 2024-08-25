@@ -59,9 +59,10 @@ How many cells are in the 6-volt battery pictured below?
 
 Did you figure out how many cells are in a 6-volt lantern battery?  If you said four, your are correct!
 
-![sample battery internal](05_sample_battery_internal.png)
+[image of sample battery internals](05_sample_battery_internal.png)
 
 </details>
+
 
 Some batteries are dry-cells, like the ones pictured above. Other batteries are wet-cells, which are filled with a liquid electrolyte. Some batteries are rechargeable, while other batteries are one-time use. The 12-volt car battery pictured in Figure 5 is a wet-cell rechargeable battery that has six cells.
 
