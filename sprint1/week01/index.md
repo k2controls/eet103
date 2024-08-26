@@ -43,7 +43,7 @@ layout: default
     - PS157A -Other Electronics Lab
 
 - EET103 Student Kit
-    - Bill of Materials
+    - [Bill of Materials](../../hardware_kit/EET103_kit_BOM.pdf)
     - Kit build activity
     - Kit review
     
