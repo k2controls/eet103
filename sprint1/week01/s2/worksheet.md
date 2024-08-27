@@ -34,3 +34,5 @@ larger-diameter wire size, 14 gauge or 8 gauge?
 9. What does the breakdown voltage (also known as dielectric strength) rating for an electrically insulating substance mean?
 
 10. How much voltage can a 50 mm thick piece of mica withstand before breaking down?
+
+[<-- Back](../)

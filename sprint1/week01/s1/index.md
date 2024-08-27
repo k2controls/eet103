@@ -4,7 +4,7 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-### [EET103](../../../) - [Sprint 1](../../) -[Week 1](../) - Session 1
+### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 1
 
 #### **Session 1**
 
@@ -57,3 +57,5 @@ layout: default
     - Printed Circuit Board (PCB)
 
 - Site review with assignment
+
+[<-- Back](../)

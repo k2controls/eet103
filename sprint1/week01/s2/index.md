@@ -4,7 +4,7 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-### [EET103](../../../) - [Sprint 1](../../) -[Week 1](../) - Session 2
+### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 2
 
 - Announcements	
     - MakerSpace Meta - see Moodle
@@ -52,3 +52,5 @@ layout: default
 
 #### Review
 - [Conductors-Insulators worksheet](worksheet.md)
+
+[<-- Back](../)
