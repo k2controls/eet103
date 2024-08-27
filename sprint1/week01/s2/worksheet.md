@@ -35,4 +35,4 @@ larger-diameter wire size, 14 gauge or 8 gauge?
 
 10. How much voltage can a 50 mm thick piece of mica withstand before breaking down?
 
-[![back button](/back_button.png)](../)
+[![back button](../../../back_button.png)](./)

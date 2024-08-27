@@ -58,4 +58,4 @@ layout: default
 
 - Site review with assignment
 
-[![back button](/back_button.png)](../)
+[![back button](../../../back_button.png)](../)
