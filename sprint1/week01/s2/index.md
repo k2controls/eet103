@@ -43,6 +43,8 @@ layout: default
 
 #### Soldering Introduction
 - [AI Prompt] - Can you provide an overview of how to use a soldering iron to join a wire to a terminal?
+- Safety glasses required
+- Fuse holder stripping and tinning
 - Adding leads to switches
     - toggle switch
     - push button switch
