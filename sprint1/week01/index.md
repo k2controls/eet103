@@ -6,9 +6,9 @@ layout: default
 
 ### [EET103](../../) - [Sprint 1](../) - Week 1
 
-[**Session 1**](s1/)
+#### [Session 1](s1/)
 
-[**Session 2**](s2/)
+#### [Session 2](s2/)
 
 ---
 
@@ -22,5 +22,6 @@ layout: default
         - Resistance
         - Voltage and Current in a Practical Circuit
         - Conventional Versus Electron Flow
-
+- Video
+    - Continuity test of toggle switch with leads attached.
 
