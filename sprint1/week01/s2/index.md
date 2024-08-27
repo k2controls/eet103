@@ -53,4 +53,4 @@ layout: default
 #### Review
 - [Conductors-Insulators worksheet](worksheet.md)
 
-[<-- Back](../)
+[![back button](/back_button.png)](../)
