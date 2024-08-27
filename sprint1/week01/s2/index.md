@@ -8,8 +8,9 @@ layout: default
 
 - Announcements	
     - MakerSpace Meta - see Moodle
-    - Tech hours
-    - new techs needed!
+        - Tech hours
+        - new techs needed!
+    - Review session recording
 
 ### static electricity
 - Static Electricity(https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/static-electricity/)
