@@ -45,26 +45,41 @@ Follow along with the instructor as he or she uses the DVM to test continuity
 6. Repeat a continuity test using the “Resistance” setting on the DMM. What does the meter read when connections have continuity? What does the meter read when connections do NOT have continuity?
 7. Locate your DC motor in your parts kit. Use what you have learned to test for continuity inside the motor. Discuss your results with your partner. Can you determine if a DC motor is bad using a DVM?
 8. Research switch types by submitting the following AI Prompt.
+
    [**AI Prompt:**] - How do SPST, SPDT, and DPDT switches work? Can you provide comparisons and possibly images of their internals?
+
 8. From your student kit select one pushbutton switch and one SPDT toggle switch.
 9. Use what you have learned about testing for continuity to test the switch function. Is this difficult give the small size of the components and their terminals?
 10. To make the small switch components more functional for our initial tests, you will add leads to both a push button switch and a toggle switch. You will attach the leads to the devices by soldering jumper wires from your kit to the component leads.
 
 #### Soldering Demonstration
 
-Follow along with the instructor as he or she demonstrate soldering techniques for joining a test lead to a terminal.
+Follow along with the instructor as he or she demonstrates soldering techniques for joining a test lead to a terminal.
 
 **Part 2**
 1. Research soldering techniques by submitting the following AI Prompt.
-   [**AI Prompt:**] - I need to solder test leads onto the PCB terminals of a switch component. Please provide an overview of basics soldering iron use along with any demonstrations of connecting wires to circuit board terminals.
+
+[**AI Prompt:**] - I need to solder test leads onto the PCB terminals of a switch component. Please provide an overview of basics soldering iron use along with any demonstrations of connecting wires to circuit board terminals.
+
 2. Select two colors of test leads from your kit. Do not use red or black.
-3. Select two test leads (different colors) and cut each test lead in half. Strip the insulation on each of the four parts so that they can be soldered onto the pushbutton leads. 
+3. Cut each test lead in half. Strip the insulation on each of the four parts so that they can be soldered onto the pushbutton leads.
+
+![alt text](test_leads.jpg) 
+
 4. Use your DVM to determine with of the four terminals on the pushbutton switch are always connected and which are *switched on* when you press the button. 
-5. Follow the techniques demonstrated by your instructor as well as content in the video lessons that were located by your AI prompt. Connect the **four** test leads to the pushbutton. Use the DVM to test your solder joints and switch function. Validate the following assuming you selected green and yellow leads.
+5. Follow the techniques demonstrated by your instructor as well as content in the video lessons that were located by your AI prompt. Connect the **four** test leads to the pushbutton. 
+
+![alt text](pb_switch_w_leads.jpg)
+
+Use the DVM to test your solder joints and switch function. Validate the following assuming you selected green and yellow leads.
    1. There is continuity between the two green leads.
    2. There is continuity between the two yellow leads.
    3. With the pushbutton **not** pressed, there is not continuity between the green and yellow leads.
    4. With the pushbutton **pressed** there is continuity between the green and yellow leads.
+
+![alt text](pb_cont_test_open.jpg)  ![alt text](pb_cont_test_pressed.jpg) 
+
+
 6. Based on your earlier research on switch types, specfically the SPDT toggle switch, repeat the soldering and testing procedure above for one of your kit toggle switches.
 7. Be sure you understand terminal connections and use one lead color for the common terminal and the second lead color for the two switched terminals.
 8. Consider the testing requirements for this component and validate your solder joints and switch function using your DVM.

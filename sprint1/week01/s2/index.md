@@ -34,6 +34,9 @@ layout: default
 
 #### Electrical Continuity
 - A first look at the UT33B+ Digital Multimeter (DVM)
+
+![alt text](ut33b+_meter.png)
+
 - [Lab 01 Testing Continuity](../../../labs/l01_continuity/index.md)
 
 #### Soldering Introduction
