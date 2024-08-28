@@ -34,22 +34,10 @@ layout: default
 
 #### Electrical Continuity
 - A first look at the UT33B+ Digital Multimeter (DVM)
-    - continuity demo
-        - wire
-        - fuse
-        - motor
-        - toggle switch
-        - push button switch
-        - issues with connecting switches
+- [Lab 01 Testing Continuity](../../../labs/l01_continuity/index.md)
 
 #### Soldering Introduction
-- [AI Prompt] - Can you provide an overview of how to use a soldering iron to join a wire to a terminal?
-- Safety glasses required
-- Fuse holder stripping and tinning
-- Adding leads to switches
-    - toggle switch
-    - push button switch
-    - inspection and testing
+- This introduction is contained in the Lab 01 experience
 
 #### Review
 - [Conductors-Insulators worksheet](worksheet.md)
