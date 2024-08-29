@@ -97,4 +97,4 @@ Use the DVM to test your solder joints and switch function. Validate the followi
 ### Video Assessment Rubric
 #### Testing Continuity
 
-[Lab 01 Testing Continuity - Scoring Rubric](l01_rubirc.pdf){:target='_blank'}
+[Lab 01 Testing Continuity - Scoring Rubric](l01_rubric.pdf){:target='_blank'}
