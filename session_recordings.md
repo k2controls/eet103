@@ -3,9 +3,11 @@
 ### Session Recordings
 
 - [8/26/2024](https://nmc.zoom.us/rec/share/2BUUyn92Wx_-c-LtTIqYTVGEyxH4Y6wJKlqCE39jP3diinLm1955MVbXyuR1Qqs.nww8LNPOu6SJ9XQu)
+- [8/28/2024](https://nmc.zoom.us/rec/share/yjxfJfe22rwYNwfMdL25ECp07nbD0ft8sxdCWj7CKlt948tUdpacW3LiSWYsP-Xn.WrkMuOzQvyOrfICc )
+
 
 <!--
-- [8/28/2024]()
+
 - [9/2/2024]()
 - [9/4/2024]()
 - [9/9/2024]()
