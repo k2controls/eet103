@@ -10,6 +10,8 @@ layout: default
 
 #### [<span style="cursor: pointer;">Session 2</span>](s2/)
 
+##### [Lab 1 - Continuity Test](../../labs/l01_continuity/index.md)
+
 ---
 
 ### Assignments
@@ -22,6 +24,4 @@ layout: default
         - Resistance
         - Voltage and Current in a Practical Circuit
         - Conventional Versus Electron Flow
-- Video
-    - Continuity test of toggle switch with leads attached.
-
+- Lab 1 - in-progress - due week 02
