@@ -56,6 +56,10 @@ layout: default
     - Prototyping (may use breadboard - see sprint 2)
     - Printed Circuit Board (PCB)
 
-- Site review with assignment
+- Review of online text and assigned reading
+    - [All About Circuits](https://www.allaboutcircuits.com/textbook/direct-current/){:target='_blank'}
+    - [PDF version of text][text](<../../../resources/All about circuits - DC.pdf>){:target='_blank'}
+    - Chapter 1 assigned
+
 
 [![back button](../../../back_button.png)](../)

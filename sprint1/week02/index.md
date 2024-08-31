@@ -8,7 +8,14 @@ layout: default
 
 **Session 1**
 - HW Q and A
-- Electrical Parameters and Fundamentals - Review - V, I, R & P
+- Review of conductivity
+    [Review video](https://www.allaboutcircuits.com/video-lectures/wire-and-cable/){:target='_blank'}
+    
+- What are Electrical Circuits?
+    - Continuous pathway for charge carriers
+    - breaks, *opens*, and *shorts*
+- 
+Electrical Parameters and Fundamentals - Review - V, I, R & P
 Lab
 - Basic Circuit Analysis - Complete Lab 1 if needed"
 - Continuity - Bring it all together
