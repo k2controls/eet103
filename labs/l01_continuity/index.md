@@ -22,7 +22,7 @@ layout: default
 - SPDT toggle switch
 - Soldering kit from student kit
 - Solderless jumper wires
-- Aligator clips or other part holder
+- Alligator clips or other part holder
 - Wire strippers 
 
 #### Continuity Demonstration
