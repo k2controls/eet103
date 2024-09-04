@@ -21,16 +21,25 @@ layout: default
 
 - DMM demo (see [Lab 2 - Basic Circuits](../../labs/l02_basic_circuit/index.md){:target='_blank'})
 
-- Complete Quiz 1
+- Complete [Quiz 1](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUOFlCVDlaNFVFWlJHQ1hWVjJGUzEyWlZBMC4u){:target='_blank'}
 
-- Complete [Lab 1]](../../labs/l01_continuity/index.md) with Zoom recording
+- Complete [Lab 1](../../labs/l01_continuity/index.md) with Zoom recording
 
 - Begin [Lab 2 - Basic Circuits](../../labs/l02_basic_circuit/index.md){:target='_blank'}
 
 ---
 
 ### Assignments
-- Complete Lab 1 with associated Zoom video
-- Post video to W02 link by Sunday night
-- Complete Quiz 1 in class
+- Reading (from last week)
+    - [Basic Concepts of Electricity](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/){:target='_blank'}
+        - Static Electricity
+        - Conductors, Insulators, and Electron Flow
+        - What Are Electric Circuits?
+        - Voltage and Current
+        - Resistance
+        - Voltage and Current in a Practical Circuit
+        - Conventional Versus Electron Flow
+- **Complete Lab 1 with associated Zoom video**
+- **Post video to W02 link by Sunday night**
+- **Complete Quiz 1 in class**
 
