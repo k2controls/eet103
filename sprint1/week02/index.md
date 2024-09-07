@@ -6,11 +6,11 @@ layout: default
 
 ### [EET103](../../) - [Sprint 1](../) - Week 2
 
-#### [Labor Day - No class](./)
+- #### [Labor Day - No class](./)
 
-#### [<span style="cursor: pointer;">Session 2</span>](s2/)
+- #### [<span style="cursor: pointer;">Session 2</span>](s2/)
 
-##### [Lab 1 - Continuity Test](../../labs/l01_continuity/index.md)
+    - ##### [Lab 1 - Continuity Test](../../labs/l01_continuity/index.md)
 
 ---
 
