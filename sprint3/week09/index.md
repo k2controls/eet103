@@ -6,12 +6,9 @@ layout: default
 
 ### [EET103](../../) - [Sprint 3](../) - Week 09
 
-**Session 1**
-- 
+#### [<span style="cursor: pointer;">Session 1</span>](s1/)
 
-    
-**Session 2**
-- 
+#### [<span style="cursor: pointer;">Session 2</span>](s2/)
 
 ---
 
