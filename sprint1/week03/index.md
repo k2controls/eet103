@@ -33,12 +33,13 @@ layout: default
 
 ### End of Sprint 1 - Assessments and Grading
 The following assignment must be completed and submitted as directed. Total points for the sprint is 80. See the breakdown below.
-    - [Lab 1: Continuity](../../labs/l01_continuity/){:target='_blank'} - 15 points    
-        - [Lab 1 rubric](../../labs/l01_continuity/l01_rubric.pdf){:target='_blank'}
-    - [Lab 2: Basic Circuits](../../labs/l02_basic_circuit/){:target='_blank'} - 35 points    
-        - [Lab 2 rubric](../../labs/l02_basic_circuit/l02_rubric.pdf){:target='_blank'}    
-    - Quiz 1 (in-class see week 2) - 10 point
-    - Quiz 2 (in-class see week 3) - 10 points
-    - Quiz 3 - 10 points. This is quiz covers reading assigned in week 3 but the quiz is not completed until a Week 4 class session.
+
+- [Lab 1: Continuity](../../labs/l01_continuity/){:target='_blank'} - 15 points    
+    - [Lab 1 rubric](../../labs/l01_continuity/l01_rubric.pdf){:target='_blank'}
+- [Lab 2: Basic Circuits](../../labs/l02_basic_circuit/){:target='_blank'} - 35 points    
+    - [Lab 2 rubric](../../labs/l02_basic_circuit/l02_rubric.pdf){:target='_blank'}    
+- Quiz 1 (in-class see week 2) - 10 point
+- Quiz 2 (in-class see week 3) - 10 points
+- Quiz 3 - 10 points. This is quiz covers reading assigned in week 3 but the quiz is not completed until a Week 4 class session.
 
     
