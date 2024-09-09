@@ -37,5 +37,5 @@ This first sprint provides an overview to the EET103 class and its related resou
     i. Electric Shock Data
 
 #### Sprint Assessment
-To validate your understanding and abilities in basic DC circuits, you will demonstrate knowledge of fundamental electricity concepts, including schematic diagram interpretation, circuit construction, circuit analysis, and measurements.   
+To validate your understanding and abilities in basic DC circuits, you will demonstrate knowledge of fundamental electricity concepts, including schematic diagram interpretation, circuit construction, circuit analysis, and measurement. Additionally, you are required to submit a video demonstration showcasing the correct construction of your circuit and proper use of a digital multimeter to measure voltage, current, and resistance. This video should clearly explain each step and ensure safe handling practices.
 
