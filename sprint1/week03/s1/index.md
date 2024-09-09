@@ -11,6 +11,7 @@ layout: default
 - Week 2 submissions
     - All but three were able to submit.
     - We'll work in class this evening to resolve.
+
 - Week 3 is the end of [Sprint 1](../../){:target='_blank'} 
     - Review Sprint 1 requirements listed in [Week 3](../){:target='_blank'}
     - If you were unable to submit W02 work, then add to your W03 submission. The instructor will demonstrate submitting to Moodle.
@@ -18,8 +19,16 @@ layout: default
     - Quiz 3 - [Electrical Safety (Chapter 3)](https://www.allaboutcircuits.com/textbook/direct-current/chpt-3/importance-electrical-safety/){:target='_blank'} is next week (Sprint 2) but is included in Sprint 1 scoring.
     - W02 and W03 videos must be submitted this week. See the course syllabus for policy on late work.
     - Additional lab time is planned for this week's Session 2.
-- Preview of Electrical Safety
+
+- Soldering - Leads to pins
+    - Momentary switch
+    - SPDT toggle switch
+    - your first attempt. How did it go?
+    - Thoughts on kit soldering station
+
+- Preview of [Electrical Safety (Chapter 3)](https://www.allaboutcircuits.com/textbook/direct-current/chpt-3/importance-electrical-safety/){:target='_blank'}
     - Instructor will highlight important concepts and practices
+
 - [Lab 2 - Basic Circuits](../../../labs/l02_basic_circuit/){:target='_blank'}
     - Discuss circuits A, B, and C along with required meter use.
     - Review video requirements and [grading rubric](../../../labs/l02_basic_circuit/l02_rubric.pdf).
