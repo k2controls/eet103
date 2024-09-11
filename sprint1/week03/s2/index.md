@@ -19,11 +19,11 @@ layout: default
 
     ![simple switch](switch_review.png)
     
-        - make or break
-        - short or open
-        - low/high resistance
-        - switch is in *series* with the load
-        - Use of ground symbols
+    - make or break
+    - short or open
+    - low/high resistance
+    - switch is in *series* with the load
+    - Use of ground symbols
     - *Poles* and *Throws*
     
     ![alt text](poles_throws.png)
@@ -31,6 +31,9 @@ layout: default
     - Common three-way switch
 
     ![alt text](3-way.png)
+
+- [Batteries in Series](https://www.allaboutcircuits.com/textbook/experiments/chpt-3/series-batteries/){:target='blank'}
+- [Batterues in Parallel](https://www.allaboutcircuits.com/textbook/experiments/chpt-3/parallel-batteries/){:target='blank'}
 
 - Math for Electronics
     - Scientific notaton and metric prefixes
