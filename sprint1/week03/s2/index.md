@@ -59,7 +59,7 @@ layout: default
         ![alt text](breadboard.png)
 
 - *BREAK*
-- [Quiz 2](https://forms.office.com/r/75ntd09cpd){:target:='_blank'}
+- [Quiz 2](https://forms.office.com/r/75ntd09cpd){:target='_blank'}
 - Lab 2 continued.
 
 [![back button](../../../back_button.png)](../)
