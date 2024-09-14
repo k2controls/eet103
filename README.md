@@ -1,3 +1,3 @@
-# eet103_src
+# eet103
 ## NMC EET103 Electrical Studies I
 ### course documents 
