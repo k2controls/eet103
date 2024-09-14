@@ -10,40 +10,47 @@ layout: default
 - [Week 5](week05)
 - [Week 6](week06)
 
+#### Overview
+
+In this sprint, you'll deepen your understanding of DC circuits, extending from basic resistive circuits to series, parallel, and series-parallel combinations. You will apply Ohm’s Law and Kirchhoff's Laws to analyze, construct, and troubleshoot circuits. Simulations and hands-on activities will reinforce your skills in circuit analysis and measurement.
+
 #### Outcomes
-1. Ohm's Law
-    1. Ohm’s Law - How Voltage, Current, and Resistance Relate
-    1. An Analogy for Ohm’s Law
-    1. Power in Electric Circuits
-    1. Calculating Electric Power
-    1. Resistors
-    1. Nonlinear Conduction
-    1. Circuit Wiring
-    1. Polarity of voltage drops
-    1. Computer Simulation of Electric Circuits
+1. **Ohm's Law**
+    - How Voltage, Current, and Resistance Relate
+    - An Analogy for Ohm’s Law
+    - Power in Electric Circuits
+    - Calculating Electric Power
+    - Resistors
+    - Nonlinear Conduction
+    - Circuit Wiring
+    - Polarity of Voltage Drops
+    - Computer Simulation of Electric Circuits
     
-1. Series And Parallel Circuits
-    1. What is the Difference Between Series and Parallel Circuits?
-    1. Series Circuits and the Application of Ohm’s Law
-    1. Parallel Circuits and the Application of Ohm’s Law
-    1. Solving Series and Parallel Circuits With the Table Method and Ohm’s Law
-    1. What is the Relationship Between Conductance and Resistance?
-    1. How to Calculate Power in a Series and Parallel Circuit
-    1. Applying Ohm’s Law—Rules and Methods for Circuit Analysis
-    1. Simulation of Series and Parallel Circuits
-    1. Troubleshooting Series and Parallel Circuits
-    1. Building Resistor Circuits Using Breadboards, Perfboards, and Terminal Strips
-1. Divider Circuits And Kirchhoff's Laws
-    1. Voltage Divider Circuits
-    1. Kirchhoff’s Voltage Law (KVL)
-    1. Current Divider Circuits and the Current Divider Formula
-    1. Kirchhoff’s Current Law (KCL)
-1. Series-parallel Combination Circuits
-    1. What is a Series-Parallel Circuit?
-    1. Analysis Techniques for Series Parallel Resistor Circuits
-    1. Re-drawing Complex Schematics
-    1. Component Failure Analysis (Continued)
-    1. Building Series-Parallel Resistor Circuits
+2. **Series And Parallel Circuits**
+    - Difference Between Series and Parallel Circuits
+    - Series Circuits and Ohm’s Law
+    - Parallel Circuits and Ohm’s Law
+    - Solving Series and Parallel Circuits Using the Table Method and Ohm’s Law
+    - Conductance vs. Resistance
+    - Calculating Power in Series and Parallel Circuits
+    - Ohm’s Law Rules and Methods for Circuit Analysis
+    - Simulating Series and Parallel Circuits
+    - Troubleshooting Series and Parallel Circuits
+    - Building Resistor Circuits (Breadboards, Perfboards, and Terminal Strips)
+
+3. **Divider Circuits And Kirchhoff's Laws**
+    - Voltage Divider Circuits
+    - Kirchhoff’s Voltage Law (KVL)
+    - Current Divider Circuits and the Current Divider Formula
+    - Kirchhoff’s Current Law (KCL)
+
+4. **Series-Parallel Combination Circuits**
+    - Series-Parallel Circuit Overview
+    - Analysis Techniques for Series-Parallel Resistor Circuits
+    - Redrawing Complex Schematics
+    - Component Failure Analysis (Continued)
+    - Building Series-Parallel Resistor Circuits
 
 #### Sprint Assessment
-To validate my understanding and abilities of series and parallel DC circuits, I will produce and publish a video blog sharing my knowledge of series/parallel circuit concepts including schematic diagram interpretation, circuit construction, circuit analysis using KVL and KCL, and simulation.   
+
+You will demonstrate your understanding of DC circuit analysis, focusing on Ohm's Law, Power Law, series, parallel, and series-parallel circuits. Building upon skills from Sprint 1, you’ll apply circuit construction, schematic interpretation, and measurement techniques to more complex circuits. Additionally, you will submit a video demonstrating the correct construction of your circuit, the proper use of a digital multimeter, and the application of Kirchhoff’s Voltage and Current Laws (KVL and KCL).
