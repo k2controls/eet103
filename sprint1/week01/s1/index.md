@@ -58,7 +58,7 @@ layout: default
 
 - Review of online text and assigned reading
     - [All About Circuits](https://www.allaboutcircuits.com/textbook/direct-current/){:target='_blank'}
-    - [PDF version of text][text](<../../../resources/All about circuits - DC.pdf>){:target='_blank'}
+    - [PDF version of text](<../../../resources/All about circuits - DC.pdf>){:target='_blank'}
     - Chapter 1 assigned
 
 
