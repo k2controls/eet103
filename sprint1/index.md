@@ -12,32 +12,29 @@ layout: default
 
 #### Overview
 
-This first sprint provides an overview to the EET103 class and its related resources. You will learn the concepts of basic circuits and be able to construct simple circuits consisting of a DC voltage source and a load. A digital multimeter is used to measure continuity, voltage, and current while you are introduced to the  concepts of series and parallel circuits. An introduction to soldering is also included.
+This first sprint provides an introduction to the EET103 class and its related resources. You will learn basic circuit concepts and construct simple circuits consisting of a DC voltage source and a load. A digital multimeter will be used to measure continuity, voltage, and current, while you are introduced to series and parallel circuits. This sprint also includes an introduction to soldering.
 
 #### Outcomes
 1. Basic Concepts of Electricity
-
-    a. Static Electricity
-    b. Conductors, Insulators, and Electron Flow
-    c. What Are Electric Circuits?
-    d. Voltage and Current
-    e. Circuit Load and Resistance
-    f. Voltage and Current in a Practical Circuit
-    g. Conventional Versus Electron Flow
-    h. Digital Multimeter Use
+    - Static Electricity
+    - Conductors, Insulators, and Electron Flow
+    - Electric Circuits
+    - Voltage and Current
+    - Circuit Load and Resistance
+    - Understanding Voltage and Current in Practical Circuits
+    - Conventional Versus Electron Flow
+    - Digital Multimeter Use
 
 2. Electrical Safety
-
-    a. The Importance of Electrical Safety
-    b. Physiological Effects of Electricity
-    c. Shock Current Path
-    d. Safe Practices
-    e. Emergency Response
-    f. Common Sources of Hazard
-    g. Safe Circuit Design
-    h. Safe Meter Usage
-    i. Electric Shock Data
+    - The Importance of Electrical Safety
+    - Physiological Effects of Electricity
+    - Shock Current Path
+    - Safe Practices
+    - Emergency Response
+    - Common Sources of Hazard
+    - Safe Circuit Design
+    - Safe Meter Usage
+    - Electric Shock Data
 
 #### Sprint Assessment
-To validate your understanding and abilities in basic DC circuits, you will demonstrate knowledge of fundamental electricity concepts, including schematic diagram interpretation, circuit construction, circuit analysis, and measurement. Additionally, you are required to submit a video demonstration showcasing the correct construction of your circuit and proper use of a digital multimeter to measure voltage, current, and resistance. This video should clearly explain each step and ensure safe handling practices.
-
+You will demonstrate your understanding of fundamental DC circuit concepts, including schematic diagram interpretation, circuit construction, circuit analysis, and measurement. You must also submit a video demonstration showcasing the correct construction of your circuit and the proper use of a digital multimeter to measure voltage, current, and resistance. The video must clearly explain each step and highlight safe handling practices.
