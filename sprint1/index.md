@@ -16,6 +16,7 @@ This first sprint provides an overview to the EET103 class and its related resou
 
 #### Outcomes
 1. Basic Concepts of Electricity
+
     a. Static Electricity
     b. Conductors, Insulators, and Electron Flow
     c. What Are Electric Circuits?
@@ -26,6 +27,7 @@ This first sprint provides an overview to the EET103 class and its related resou
     h. Digital Multimeter Use
 
 2. Electrical Safety
+
     a. The Importance of Electrical Safety
     b. Physiological Effects of Electricity
     c. Shock Current Path
