@@ -8,3 +8,5 @@ layout: default
 
 - [Continuity](l01.continuity/)
 - [Basic Circuits](l02_basic_circuits)
+- [Series Circuits](l03_series_circuits)
+
