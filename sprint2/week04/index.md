@@ -8,9 +8,9 @@ layout: default
 
 #### [<span style="cursor: pointer;">Session 1</span>](s1/)
 
-    - ##### [Lab 3 - Series Circuits](../../labs/l03_series_circuits/){:target='_blank'}
-
 #### [<span style="cursor: pointer;">Session 2</span>](s2/)
+
+##### [Lab 3 - Series Circuits](../../labs/l03_series_circuits/){:target='_blank'}
 
 ---
 
