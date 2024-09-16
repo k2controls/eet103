@@ -123,6 +123,6 @@ This lab will be completed with a partner. However, each student will create the
      - Resistor selection and schematic overview.
      - Simulation results from Part 1 (screen-sharing the EveryCircuit app is encouraged).
      - Breadboard circuit build and description of voltage source and current flow.
-     - Discussion of your measurements from Part 2, comparing them to the simulation results.
+     - Discussion of your measurements from Part 2, comparing them to the simulation results.Show this document with values entered.
      - Challenges encountered during the lab and lessons learned.
 
