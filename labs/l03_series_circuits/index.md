@@ -6,6 +6,10 @@ layout: default
 
 ### [EET103](../../) - [Labs](../) - Series Circuits
 
+Name _____________________________
+
+Partner ____________________________
+
 #### Objectives: 
 - Wire a series circuit using a breadboard and three resistors.
 - Interpret and follow a circuit schematic to populate a breadboard.
