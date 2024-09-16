@@ -42,7 +42,7 @@ layout: default
     - [Power in Electric Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-2/power-electric-circuits/){:target='_blank'}
 
     - [AI Prompt:] - Can you plot this data for me?
-    
+
         | Current	| Voltage |
         |-----------|---------|	
         | 0.22 A    |	0.66 V |	
@@ -56,7 +56,7 @@ layout: default
 
     - [AI Prompt] - How does this data relate to Ohm's Law?
 
-    - If power is voltage times current $$P = V x R$$ or the square of the current times the resistance $$P = I^2 R$$ then what is happening to power dissipation in the generated graph?
+    - If power is voltage times current <span>$$P = V x R$$</span> or the square of the current times the resistance $$P = I^2 R$$ then what is happening to power dissipation in the generated graph?
 
     - [AI Prompt:] - Can you plot power for this resistor given the current in the graph?
 
