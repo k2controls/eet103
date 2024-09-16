@@ -25,12 +25,14 @@ layout: default
             - Internal resistance of a voltmeter?
             - Voltage source in series
             - Motor as a load
+            - Take-aways? Challenges?
 
         - Circuit C![circuit c](../../../labs/l02_basic_circuit/circuitC.png)
             - SPDT toggle to switch loads
             - Load current comparison - Motor vs. Buzzer
             - Total load current if both connected?
             - Load voltage with both connected?
+            - Take-aways? Challenges?
 
 - Resistance and Ohm's Law - [Chapter 2](https://www.allaboutcircuits.com/textbook/direct-current/chpt-2/voltage-current-resistance-relate/){:target='_blank'}
 
@@ -40,6 +42,7 @@ layout: default
     - [Power in Electric Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-2/power-electric-circuits/){:target='_blank'}
 
     - [AI Prompt:] - Can you plot this data for me?
+    
         | Current	| Voltage |
         |-----------|---------|	
         | 0.22 A    |	0.66 V |	
