@@ -34,6 +34,10 @@ layout: default
 - Lab 3 example series circuit analysis
     - Given your three resistors calculate current and voltage drops.
 
+Scientific Calculator Application 
+o RealCalc - Android Apps on Google Play 
+o Panecal Scientific Calculator on the App Store (apple.com)
+
  - Lab 3 - Breadboard construction
 
     ![alt text](breadboard_series1.png)
