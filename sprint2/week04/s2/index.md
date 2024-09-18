@@ -22,9 +22,25 @@ layout: default
     - Current in a series circuit
     - Total resistance in a series ciruit
 
-    V = I x R
-    
-    R~T~ = R~1~ + R~3~ + R~3~
+    $V = I x R$
+
+    $R_T = R_1 + R_2 + R_3$
+
+    $V_S = V_{R1} + V_{R2} + V_{R3}$
+
+- Lab 3 example series circuit analysis
+    - Given your three resistors calculate current and voltage drops.
+
+ - Lab 3 - Breadboard construction
+
+    ![alt text](breadboard_series1.png)
+
+    ![alt text](breadboard_series2.png)
+
+- Using power and ground rails on breadboad with your Breadboard Power Supply.
+    - [How to Use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+
+    ![alt text](breadboard_with_power_supply.png)
 
 - [Lab 3 - Series Circuits](../../../labs/l03_series_circuits/){:target='_blank'}
     - Partners assigned
