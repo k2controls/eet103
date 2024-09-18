@@ -22,11 +22,14 @@ layout: default
     - Current in a series circuit
     - Total resistance in a series ciruit
 
-    $V = I x R$
 
-    $R_T = R_1 + R_2 + R_3$
+    V = I x R
 
-    $V_S = V_{R1} + V_{R2} + V_{R3}$
+    R<sub>T</sub> = R<sub>1</sub> + R<sub>2</sub> + R<sub>3</sub>
+
+    V<sub>S</sub> = V<sub>R1</sub> + V<sub>R2</sub> + V_<sub>R3</sub>
+
+
 
 - Lab 3 example series circuit analysis
     - Given your three resistors calculate current and voltage drops.
