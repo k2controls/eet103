@@ -38,7 +38,7 @@ layout: default
     ![alt text](breadboard_series2.png)
 
 - Using power and ground rails on breadboad with your Breadboard Power Supply.
-    - [How to Use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+    - [How to Use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all){:target='_blank'}
 
     ![alt text](breadboard_with_power_supply.png)
 
