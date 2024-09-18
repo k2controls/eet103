@@ -27,7 +27,7 @@ layout: default
 
     R<sub>T</sub> = R<sub>1</sub> + R<sub>2</sub> + R<sub>3</sub>
 
-    V<sub>S</sub> = V<sub>R1</sub> + V<sub>R2</sub> + V_<sub>R3</sub>
+    V<sub>S</sub> = V<sub>R1</sub> + V<sub>R2</sub> + V<sub>R3</sub>
 
 
 
