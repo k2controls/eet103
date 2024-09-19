@@ -7,6 +7,7 @@ layout: default
 ### [EET103](../) - Labs
 
 - [Continuity](l01.continuity/)
-- [Basic Circuits](l02_basic_circuits)
-- [Series Circuits](l03_series_circuits)
+- [Basic Circuits](l02_basic_circuits/)
+- [Series Circuits](l03_series_circuits/)
+- [Parallel Circuits](l04_parallel_circuits/)
 
