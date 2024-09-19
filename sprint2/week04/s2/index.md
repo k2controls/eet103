@@ -49,6 +49,8 @@ o Panecal Scientific Calculator on the App Store (apple.com)
 
     ![alt text](breadboard_with_power_supply.png)
 
+<!-- - [Quiz 3](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNks0S1ZUS08yVFhBN0cySFJFVEJNWkxYTi4u){:target='_blank'} -->
+
 - [Lab 3 - Series Circuits](../../../labs/l03_series_circuits/){:target='_blank'}
     - Partners assigned
     - Due this week
