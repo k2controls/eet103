@@ -13,4 +13,4 @@ layout: default
 ---
 
 ### Assignments
-- 
+- Capacitor, Inductors (Basic AC?)

@@ -13,4 +13,4 @@ layout: default
 ---
 
 ### Assignments
-- 
+- Transformers (voltage sources? step up/down)

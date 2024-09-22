@@ -13,4 +13,4 @@ layout: default
 ---
 
 ### Assignments
-- 
+- Series/parallel voltage dividers

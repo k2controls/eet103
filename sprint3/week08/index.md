@@ -13,4 +13,4 @@ layout: default
 ---
 
 ### Assignments
-- 
+- Sodering - sig gen project

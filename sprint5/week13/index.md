@@ -13,4 +13,4 @@ layout: default
 ---
 
 ### Assignments
-- 
+- ICs, 555

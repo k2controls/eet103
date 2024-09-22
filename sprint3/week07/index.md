@@ -13,4 +13,6 @@ layout: default
 ---
 
 ### Assignments
-- 
+- Midterm Review and Exam
+- Breadboard -> pt2pt
+
