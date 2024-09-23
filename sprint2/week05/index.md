@@ -31,4 +31,4 @@ layout: default
 - **Complete [Quiz 3 (safety)](https://forms.office.com/r/mT2B9DgxZw){:target='_blank'}** - in class Session 1
 - **Complete [Worksheet 1 - Ohm's Law](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUOTBQMTg1MUVSTFlRUEJPVDY0UTZLUktWQS4u){:target='_blank'}** - prep for Quiz 4
 - **Complete [Quiz 4 (Ohm's Law)](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNUY1M0ZMWlVMQ0M1U1NIMkZaU0JHMlUzMy4u){:target='_blank'} in class**
-- **Complete [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/) with associated Zoom video**
+- **Complete [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/){:target='_blank'} with associated Zoom video**
