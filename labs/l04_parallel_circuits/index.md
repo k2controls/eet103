@@ -42,7 +42,7 @@ This lab will be completed with a partner. However, each student will create the
    - Use the wrench icon to adjust the resistor values.
    - Ensure the ground symbol is included for proper simulation.
 
-    ![parallel circuit](parallel_circuit.png)
+    ![parallel circuit](parallel_circuits.png)
 
 5. **Simulate Circuit Operation**:
    - Press the space bar to run the simulation and observe current flow and voltage levels.
