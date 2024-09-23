@@ -60,6 +60,6 @@ BREAK
 - [Quiz 3 Safety](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNks0S1ZUS08yVFhBN0cySFJFVEJNWkxYTi4u){:target='_blank'} 
 
 - Debt? Lab 3?
-- [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/)
+- [Lab 4 - Parallel Circuits](../../../labs/l04_parallel_circuits/)
 
 [![back button](../../../back_button.png)](../)
