@@ -36,9 +36,9 @@ layout: default
 
     - Note: Use search to locate additional practice.
 
-    - [Series-Parallel Circuit Analysis: Practice Problems Circuit 3](https://www.wisc-online.com/learn/technical/electronics-dc/dce20719/series-parallel-circuit-analysis-practice-pro){:target='_blank'}
+    - [Series-Parallel Problems 3](https://www.wisc-online.com/learn/technical/electronics-dc/dce20719/series-parallel-circuit-analysis-practice-pro){:target='_blank'}
 
-    - [Series-parallel problem 4](https://www.wisc-online.com/learn/technical/electronics-dc/dce10704/series-parallel-practice-problems-circuit-4){:target='_blank'}
+    - [Series-parallel Problem 4](https://www.wisc-online.com/learn/technical/electronics-dc/dce10704/series-parallel-practice-problems-circuit-4){:target='_blank'}
 
 
 - **Complete [Quiz 6 - Parallel Circuits](){:target='_blank'} in class during Session 2**
