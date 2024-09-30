@@ -12,7 +12,7 @@ The following is a list of concepts included in EET103 that are included in the 
 1. Ohm's Law and Power Law
     - V = I x R
     - P = I x V
-    - other related Algebraic forms (i.e. P = I<super>2</super> x R) 
+    - other related Algebraic forms (i.e. P = I<sup>2</sup> x R) 
 2. Series Circuits
     - Total resistance give multiple resistors
     - Current flow
