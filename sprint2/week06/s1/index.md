@@ -12,12 +12,13 @@ layout: default
 - Quiz 5 Parallel circuits on Wednesday
 - Midterm is Wednesday, Oct 9.
 - Gradebook is up to date. Review comments and debt.
-- [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/){:target='_blank'} still "in-progess" by many. 
+- [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/){:target='_blank'} still "in-progress" by some. 
     - Use correct terminology
     - Discuss concepts
     - Present procedure and results
     - Use document during video to support
-- [Lab 5 - Stop Light Breadboard](../../../labs/l05_stop_light_breadboard/index.md){:target='_blank'} is assigned for this week. Lab 6 - Stop Light Perfboard is next week.
+- [Lab 5 - Stop Light Breadboard](../../../labs/l05_stop_light_breadboard/index.md){:target='_blank'} is assigned for this week. 
+- Lab 6 - Stop Light Perfboard is next week.
 - Readings
     - [Divider Circuits And Kirchhoff's Laws](https://www.allaboutcircuits.com/textbook/direct-current/chpt-6/voltage-divider-circuits/){:target='_blank'}
     - [Series-parallel Combination Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-7/what-is-a-series-parallel-circuit/){:target='_blank'}
