@@ -31,6 +31,9 @@ layout: default
     - Example 2
     ![alt text](series-parallel_2.png)
 
+    - [Example problem](https://www.wisc-online.com/learn/technical/electronics-dc/dce11404/series-parallel-circuit-analysis-practice-pro){:target='_blank'}
+
+
 - [Midterm Exam Specification](../midterm_exam_spec.md){:target='_blank'}
 
 BREAK
