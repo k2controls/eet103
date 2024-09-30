@@ -32,7 +32,7 @@ Partner ____________________________
 
 ### Part 1 - Stop Light Circuit Investigation
 
-![alt text](bboard_.png)
+![alt text](bboard.png)
 
 1. **Investigate the Circuit in EveryCircuit**:
    - Use the provided EveryCircuit link to explore the Stop Light project:
