@@ -40,7 +40,8 @@ layout: default
 
     - [Series-parallel Problem 4](https://www.wisc-online.com/learn/technical/electronics-dc/dce10704/series-parallel-practice-problems-circuit-4){:target='_blank'}
 
-
-- **Complete [Quiz 6 - Parallel Circuits](){:target='_blank'} in class during Session 2**
+- **Complete [Quiz 5 (Series Circuits)](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNEFEUk9DWERWUjFCVUtHSUNKMVVUUUs4TS4u){:target='_blank'} in class during Session 2**
  
 - **Complete [Lab 5 - Stop Light Breadboard](../../labs/l05_stop_light_breadboard/index.md){:target='_blank'}**
+
+- **Preview [Lab 6 - Stop Light Perfboard](../../labs/l06_stop_light_perfboard/index.md){:target='_blank'}**
