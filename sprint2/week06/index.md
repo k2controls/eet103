@@ -12,6 +12,8 @@ layout: default
 
 ##### [Lab 5 - Stop Light Breadboard](../../labs/l05_stop_light_breadboard/index.md){:target='_blank'}
 
+##### Preview [Lab 6 - Stop Light Perfboard](../../labs/l06_stop_light_perfboard/index.md){:target='_blank'}
+
 ---
 
 ### Assignments
@@ -44,4 +46,3 @@ layout: default
  
 - **Complete [Lab 5 - Stop Light Breadboard](../../labs/l05_stop_light_breadboard/index.md){:target='_blank'}**
 
-- **Preview [Lab 6 - Stop Light Perfboard](../../labs/l06_stop_light_perfboard/index.md){:target='_blank'}**
