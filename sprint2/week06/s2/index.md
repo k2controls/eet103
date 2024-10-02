@@ -8,13 +8,13 @@ layout: default
 
 **Session 2**
 - Schedule
-    - Today - series quiz
+    - Today - Series Quiz
     - Week 07 Monday
-        - series-parallel review
-        - parallel quize
+        - Series-parallel Review
+        - Prallel Quiz
         - midterm review(see session 1 for midterm specification)
     - Week 07 Wednesday
-        - midterm
+        - Midterm
 
 - Readings
     - [Divider Circuits And Kirchhoff's Laws](https://www.allaboutcircuits.com/textbook/direct-current/chpt-6/voltage-divider-circuits/){:target='_blank'}
@@ -41,7 +41,7 @@ BREAK
 - [Lab 5 - Stop Light Breadboard](../../../labs/l05_stop_light_breadboard/index.md){:target='_blank'} 
     - Continued
     - Video due this week
-    - Start Lab 6 if time permits
+    
 
 
 [![back button](../../../back_button.png)](../)
