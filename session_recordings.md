@@ -13,14 +13,10 @@
 - [9/23/2024](https://nmc.zoom.us/rec/share/FMpNwc5l0XX81XRvuaeZSspQ_y5TBnm2vw9VB7eUeYchpoxfU-0zx7aJX3SACODn.e2GHuan3nx53YOY5)
 - [9/25/2024](https://nmc.zoom.us/rec/share/kyd0zq3-CnZ8iHQl1UvMA4V8qHWFbPkJBSd5Dq54qQzVapt5a5g7fIoeIwxZqOZw.bwFwaDD7ZESWSzWg)
 - [9/30/2024](https://nmc.zoom.us/rec/share/6FUy8NJxIMk8rb9LHeBAccKGBk4_8PBqLKhQNJEpEca9NYBrV_o04NFfv6keQw4B.j3-nKCzsD_jhwari)
-
+- [10/2/2024](https://nmc.zoom.us/rec/share/hBdyI-zXjRw3C2K3F4f9NtWaLMk9fcMFnFZ0gMeH90O-Jdy2SOZpnv0HGc5OmDDw.9TWq1d1sWFkIuT67)
 
 <!--
 
-
-
-
-- [10/2/2024]()
 - [10/7/2024]()
 - [10/9/2024]()
 - [10/14/2024]()
