@@ -12,6 +12,8 @@ layout: default
 
 ##### [Lab 6 - Stop Light Perfboard](../../labs/l06_stop_light_perfboard/index.md){:target='_blank'}
 
+##### [Lab 7 - Signal Generator Kit Build](../../labs/l07_sig_gen_build/index.md){:target='_blank'}
+
 ---
 
 ### Assignments
