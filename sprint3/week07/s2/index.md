@@ -8,7 +8,7 @@ layout: default
 
 **Session 2**
 
-- Introduction to [Lab 7 - Signal Generator Kit Build](../../labs/l07_sig_gen_build/index.md){:target='_blank'}
+- Introduction to [Lab 7 - Signal Generator Kit Build](../../../labs/l07_sig_gen_build/index.md){:target='_blank'}
 
 - Lab 6 Perf board lab is due.
 
