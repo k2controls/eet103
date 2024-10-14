@@ -7,6 +7,9 @@ layout: default
 ### [EET103](../../../) - [Sprint 3](../../) - [Week 8](../) - Session 1
 
 **Session 1**
+
+- Lab 7: Signal Generator Build - [process review](sig_gen_build.md)
+
 - [Review - Series Quiz](https://forms.office.com/r/5fu9qaYBdu?origin=lprLink)
 - [Review - Parallel Quiz](https://forms.office.com/r/2Z4k30Ue4b?origin=lprLink)
 
