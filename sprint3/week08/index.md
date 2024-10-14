@@ -13,4 +13,14 @@ layout: default
 ---
 
 ### Assignments
-- Sodering - sig gen project
+- [Midterm Review](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUME5OSVZMSENBOURFUU9JU0dQOUs3R0xNUC4u){:target='_blank'}
+    - Open now through Wednesday prior to class
+    - not graded
+    - multiple submissions are allowed 1
+- [Midterm Exam](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUQTA5T1NTM0VERDJVWEZZRVo5TVowRVhYSy4u){:target='_blank'}
+    - Wednesday during class
+    - No late submission allowed
+    - Formula sheet with metrics allowed
+    - Blank worksheets (table format) allowed
+    - Submit hardcopy notes and worksheets at completion
+- [Soldering - Signal Generator](../../labs/l07_sig_gen_build/index.md)
