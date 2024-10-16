@@ -16,7 +16,7 @@ layout: default
     - Blank worksheets (table format) allowed
     - Staple any hardcopy notes and worksheets and add your name. Submit at the completion of the exam.
 
-- [Soldering - Signal Generator](../../labs/l07_sig_gen_build/index.md)
+- [Soldering - Signal Generator](../../../labs/l07_sig_gen_build/index.md)
     - See setup at the back of the room for testing. 
     - More testing and bench work next week.
     - If unit checks out, create video reviewing build.

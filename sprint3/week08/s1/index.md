@@ -25,7 +25,7 @@ layout: default
     - Not graded
     - Multiple submissions are allowed
 
-- [Soldering - Signal Generator](../../labs/l07_sig_gen_build/index.md)
+- [Soldering - Signal Generator](../../../labs/l07_sig_gen_build/index.md)
 
 
 [![back button](../../../back_button.png)](../)
