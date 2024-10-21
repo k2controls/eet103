@@ -18,15 +18,15 @@ layout: default
     - status?
     - testing
     - video required - post by end of week. See link.
-- [Electrical Instrumentation Signals]
-Analog and Digital Signals
-        - Voltage Signal Systems
-        - Current Signal Systems
-        - Tachogenerators
-        - Thermocouples
-        - pH Measurement
-        - Strain Gauges
-- [Batteries And Power Systems]
+- [Electrical Instrumentation Signals](https://www.allaboutcircuits.com/textbook/direct-current/chpt-9/analog-and-digital-signals/){:target="_blank"}
+    - Analog and Digital Signals
+    - Voltage Signal Systems
+    - Current Signal Systems
+    - Tachogenerators
+    - Thermocouples
+    - pH Measurement
+    - Strain Gauges
+- [Batteries And Power Systems](https://www.allaboutcircuits.com/textbook/direct-current/chpt-11/electron-activity-chemical-reactions/){:target="_blank"}
     - Battery Construction
     - Battery Ratings
         - AA Battery?
