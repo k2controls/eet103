@@ -22,7 +22,7 @@ layout: default
         - Thermocouples
         - pH Measurement
         - Strain Gauges
-    - [Batteries And Power Systems]{https://www.allaboutcircuits.com/textbook/direct-current/chpt-11/electron-activity-chemical-reactions/}{:target="_blank"}
+    - [Batteries And Power Systems](https://www.allaboutcircuits.com/textbook/direct-current/chpt-11/electron-activity-chemical-reactions/){:target="_blank"}
         - Electron Activity in Chemical Reactions
         - Battery Construction
         - Battery Ratings
