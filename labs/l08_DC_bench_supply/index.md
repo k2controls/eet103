@@ -1,5 +1,5 @@
-Here’s a draft of Lab 8, modeled after the structure of your previous labs and incorporating the specific instructions for using a 100-ohm and 1 K-ohm resistor:
-
+---
+layout: default
 ---
 
 ### Lab 8: Using a Bench DC Power Supply
