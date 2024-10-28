@@ -60,6 +60,3 @@ Summarize your understanding of using a digital oscilloscope to display and meas
 - A video demonstration of the setup and display of all three waveforms.
 - A completed lab report including screenshots of the oscilloscope display for each waveform type and answers to analysis questions.
 
----
-
-This lab experience introduces students to the essentials of using a two-channel oscilloscope, including setting up waveforms, adjusting the display for clarity, and understanding how to measure signal properties. It’s structured to ensure that students grasp the basic concepts without being overwhelmed by more advanced oscilloscope functions. Let me know if you'd like any modifications or additional details!
