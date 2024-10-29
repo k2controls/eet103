@@ -1,6 +1,6 @@
-I’ll look into some introductory resources on oscilloscope use and design a lab experience that guides students through basic oscilloscope operations, focusing on displaying and interpreting square, triangle, and sine waves using a signal generator. Please hold on for a moment while I gather and review relevant resources.
-
-Based on a review of introductory oscilloscope resources, I’ve put together an outline for Lab 9 that aims to teach students the basics of using an oscilloscope with a focus on two-channel inputs and visualizing various waveforms like square, triangle, and sine waves using a signal generator. This lab emphasizes simplicity while ensuring that students become comfortable with the core functions of an oscilloscope.
+---
+layout: default
+---
 
 ### Lab 9: Introduction to the Oscilloscope
 
