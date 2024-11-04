@@ -15,13 +15,13 @@ layout: default
 ### Assignments
 Reading
 
-- [Capacitors](https://www.allaboutcircuits.com/textbook/direct-current/chpt-13/electric-fields-capacitance/){:target="_blank"}
+- [Capacitors](https://www.allaboutcircuits.com/textbook/direct-current/chpt-13/electric-fields-capacitance/){:target="_blank"}{:target='_blank'}
     - Electric Fields and Capacitance
     - Capacitors and Calculus
     - Factors Affecting Capacitance
     - Series and Parallel Capacitors
     - Practical Considerations - Capacitors
-- [RC and L/R Time Constants](https://www.allaboutcircuits.com/textbook/direct-current/chpt-16/electrical-transients/)
+- [RC and L/R Time Constants](https://www.allaboutcircuits.com/textbook/direct-current/chpt-16/electrical-transients/){:target='_blank'}
     - Electrical Transients
     - Capacitor Transient Response
     - Inductor Transient Response

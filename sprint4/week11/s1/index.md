@@ -25,8 +25,8 @@ layout: default
     - C1, C2 in series
     - DC charge
     - Series resistor as current limiter
-    - [Capacitor with DC source](https://everycircuit.com/circuit/5103054453735424)
-    - [Capacitor with Square Wave AC Source](https://everycircuit.com/circuit/6541927687913472) 
+    - [Capacitor with DC source](https://everycircuit.com/circuit/5103054453735424){:target='_blank'}
+    - [Capacitor with Square Wave AC Source](https://everycircuit.com/circuit/6541927687913472){:target='_blank'}
     - RC time constant τ (R × C) 
     - Full charge or discharge in 5τ
     
