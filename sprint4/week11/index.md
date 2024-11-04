@@ -13,4 +13,7 @@ layout: default
 ---
 
 ### Assignments
-- Transformers (voltage sources? step up/down)
+
+[AC, Capacitor, and RC circuits](../../labs/l09_scope/index.md){:target='_blank'}
+
+<!-- - Transformers (voltage sources? step up/down) -->
