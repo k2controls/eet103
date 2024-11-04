@@ -26,7 +26,7 @@ Reading
     - Capacitor Transient Response
     - Inductor Transient Response
     - Voltage and Current Calculations  
-
-[Lab 11 - AC, Capacitor, and RC circuits](../../labs/l09_scope/index.md){:target='_blank'}
+[text]()
+[Lab 11 - AC, Capacitor, and RC circuits](../../labs/l11_ac_caps_rc_circuits/index.md){:target='_blank'}
 
 

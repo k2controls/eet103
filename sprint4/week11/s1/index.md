@@ -31,7 +31,7 @@ layout: default
     - Full charge or discharge in 5τ
     
 
-[Lab 11 - AC, Capacitor, and RC circuits](../../../labs/l09_scope/index.md){:target='_blank'}
+[Lab 11 - AC, Capacitor, and RC circuits](../../../labs/l11_ac_caps_rc_circuits/index.md){:target='_blank'}
 
 
 [![back button](../../../back_button.png)](../)
