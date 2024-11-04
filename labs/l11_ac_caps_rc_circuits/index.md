@@ -33,8 +33,8 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
 
 | AC Parameters | Definition, Description, Explanation                   |
 |--------------|-----------------------------------------|
-| frequency    |               <br><br><br>              
-| amplitude    |                           <br><br><br>  
+| Frequency    |               <br><br><br>              
+| Amplitude    |                           <br><br><br>  
 
 
 
@@ -47,24 +47,30 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
    - Identify the oscilloscope controls used to adjust the **vertical (amplitude)** and **horizontal (time)** scales.
    - Explain the purpose of the **trigger function** and how it affects waveform stability on the display.
    <br><br><br>
-   - Adjust the XR2206 signal generator to produce a **500 Hz square wave** with a **2V peak-to-peak amplitude**. Measure and record both the **frequency** and **amplitude** on the oscilloscope. Adjust the time base so that one or two cycles are displayed.
+   - Adjust the XR2206 signal generator to produce a **500 Hz square wave**. Attempt to adjust the amplitude of the waveform. Is this possible when using the square wave output?
+   - Measure and record both the **frequency** and **amplitude** on the oscilloscope.
+   <br><br><br>
+    Adjust the time base so that one or two cycles are displayed.
    - **Sketch the Waveform**: Below, sketch the waveform displayed on the oscilloscope. Use the provided image as a reference for your sketch.
+   - Have the instructor provide a lab check here.
+      <br>
+      - Lab Check ________
    
    ![Oscilloscope Display Reference Image](scope_display.png) 
 
 ### 3. Capacitor Basics
    - Describe a **capacitor** and its role in a circuit.
-      <br><br><br>
+      <br><br><br><br><br><br>
    - List and explain the key ratings of a capacitor, specifically **capacitance** (in farads) and **working voltage**.
 
 | Cap Parameters | Definition, Description, Explanation                   |
 |--------------|-----------------------------------------|
 | Capacitance  |               <br><br><br>              
-| amplitude    |                           <br><br><br>  
+| Amplitude    |                           <br><br><br>  
 
    - Differentiate between **polarized** and **non-polarized** capacitors:
      - Identify at least two types of each and their typical applications.
-
+<br><br><br>  <br><br><br>  
 
 ---
 
@@ -72,45 +78,46 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
 
 ### 1. Signal Generator Setup
    - **Objective**: Set up the XR2206 signal generator to produce a **500 Hz square wave**.
-   - Adjust the amplitude and frequency controls to achieve a stable waveform for observing RC circuit behavior.
+   - Adjust the trigger and frequency controls to achieve a stable waveform for observing RC circuit behavior.
    - Record the generator’s frequency and amplitude settings on your oscilloscope for reference.
-
+<br><br><br>  <br><br><br>  
 ### 2. Basic Questions on Capacitor Charge in DC Circuits
-   - Describe what happens to a capacitor when **DC voltage** is first applied across an RC circuit.
-     - Consider how the capacitor voltage changes over time and what ultimately happens as it charges.
+   - Describe what happens to a capacitor when **DC voltage** is first applied across an RC circuit. Consider how the capacitor voltage changes over time and what ultimately happens as it charges.
+   <br><br><br>  <br><br><br>  
    - Explain the role of the **resistor** in limiting the rate of capacitor charge.
+   <br><br><br>  <br><br><br>  
    - Describe how current changes in the circuit as the capacitor nears the supply voltage.
+   <br><br><br>  <br><br><br>  
    - **Resource**: [EveryCircuit Simulation for RC Circuit](https://everycircuit.com/circuit/5103054453735424)
 
 ### 3. RC Charge and Discharge with Square Wave Input (Procedure)
-   - **Objective**: Duplicate the RC circuit shown in the [EveryCircuit Simulation](https://everycircuit.com/circuit/6541927687913472) using a **2V peak-to-peak square wave** with a **10 ms period**.
-   - Components: Use a **1K resistor** and a **1 µF capacitor**.
+   - **Objective**: Duplicate the RC circuit shown in the [EveryCircuit Simulation](https://everycircuit.com/circuit/6541927687913472) using  **10 ms period**.
+   - Components: Use a **10K resistor** and a **.1 µF capacitor**. (.1µF is 104 ceramic cap)
    - **Setup**: Connect the oscilloscope to display both the square wave input and the capacitor’s charge/discharge curve.
    - Observe and record the **voltage across the capacitor** as it charges and discharges with each cycle of the square wave.
 
 ### 4. Investigating the RC Time Constant (τ)
-   - Vary the **resistor (R)** and **capacitor (C)** values by selecting different resistors (1K, 2K, 4.7K) and capacitors (1 µF, 10 µF).
+   - Vary the **resistor (R)** and **capacitor (C)** values by selecting different resistors (4.7K, 10K, 47K) and capacitors (.01 µF).
    - Record values in the following table:
 
 | Resistor (R) | Capacitor (C) | Calculated τ (R × C) | Description of Capacitor Voltage Change |
 |--------------|---------------|-----------------------|-----------------------------------------|
-| 1K           | 10 µF         |                       |                                         |
-| 2K           | 10 µF         |                       |                                         |
-| 4.7K         | 10 µF         |                       |                                         |
+| 4.7K           | .01 µF         |                       |                                         |
+| 10K           | .01 µF         |                       |                                         |
+| 47K         | .01 µF         |                       |                                         |
 
-   - **Note**: These capacitors are polarized electrolytic capacitors. Ensure that the positive and negative terminals are connected correctly.
 
 ### 5. Investigating the RC Time Constant (τ) with Different Capacitance Values
-   - Modify the circuit by adding a second **10 µF capacitor**:
-     - **Parallel Configuration**: Place the second capacitor in parallel with the first 10 µF capacitor.
-     - **Series Configuration**: Place the two 10 µF capacitors in series.
+   - Modify the circuit by adding a second **.01 µF capacitor**:
+     - **Parallel Configuration**: Place the second capacitor in parallel with the first .01 µF capacitor.
+     - **Series Configuration**: Place the two .01 µF capacitors in series.
    - For each configuration, record values in the table below.
 
 | Resistor (R) | Capacitor Configuration      | Equivalent Capacitance (C_eq) | Calculated τ (R × C_eq) | Description of Capacitor Voltage Change |
 |--------------|------------------------------|-------------------------------|--------------------------|-----------------------------------------|
-| 1K           | Single 10 µF                 |                               |                          |                                         |
-| 1K           | Two 10 µF in Parallel        |                               |                          |                                         |
-| 1K           | Two 10 µF in Series          |                               |                          |                                         |
+| 10K           | Single .01 µF                 |                               |                          |                                         |
+| 10K           | Two .01 µF in Parallel        |                               |                          |                                         |
+| 10K           | Two .01 µF in Series          |                               |                          |                                         |
 
 ---
 
