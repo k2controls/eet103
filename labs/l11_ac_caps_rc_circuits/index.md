@@ -14,9 +14,9 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
 ## Resources
 - **All About Circuits** (Class Text):
   - [AC Signals and Systems](https://www.allaboutcircuits.com/textbook/alternating-current/)  
-  - [Oscilloscope Basics](https://www.allaboutcircuits.com/textbook/test-measurement/chpt-7/oscilloscope/)  
-  - [Capacitors](https://www.allaboutcircuits.com/textbook/direct-current/chpt-13/capacitors/)  
-  - [RC Circuits](https://www.allaboutcircuits.com/textbook/alternating-current/chpt-4/rc-circuits/)  
+  - [Measurements of AC Magnitude](https://www.allaboutcircuits.com/textbook/alternating-current/chpt-1/measurements-ac-magnitude/)  
+  - [Electric Fields and Capacitance](https://www.allaboutcircuits.com/textbook/direct-current/chpt-13/electric-fields-capacitance/)  
+  - [Capacitor Transient Response](https://www.allaboutcircuits.com/textbook/direct-current/chpt-16/capacitor-transient-response/)  
 
 - **Additional Resources**:
   - [Introduction to Alternating Current](https://www.electronics-tutorials.ws/accircuits/alternating-current.html) – Electronics Tutorials  
@@ -52,6 +52,7 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
    <br><br><br>
     Adjust the time base so that one or two cycles are displayed.
    - **Sketch the Waveform**: Below, sketch the waveform displayed on the oscilloscope. Use the provided image as a reference for your sketch.
+   <br>
    - Have the instructor provide a lab check here.
       <br>
       - Lab Check ________
@@ -63,14 +64,14 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
       <br><br><br><br><br><br>
    - List and explain the key ratings of a capacitor, specifically **capacitance** (in farads) and **working voltage**.
 
-| Cap Parameters | Definition, Description, Explanation                   |
-|--------------|-----------------------------------------|
-| Capacitance  |               <br><br><br>              
-| Amplitude    |                           <br><br><br>  
+| Cap Parameters  | Definition, Description, Explanation    |
+|-----------------|-----------------------------------------|
+| Capacitance     |               <br><br><br>              |
+| Working Voltage |                           <br><br><br>  |
 
    - Differentiate between **polarized** and **non-polarized** capacitors:
      - Identify at least two types of each and their typical applications.
-<br><br><br>  <br><br><br>  
+<br<br><br>  <br><br><br>  
 
 ---
 
@@ -80,19 +81,21 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
    - **Objective**: Set up the XR2206 signal generator to produce a **500 Hz square wave**.
    - Adjust the trigger and frequency controls to achieve a stable waveform for observing RC circuit behavior.
    - Record the generator’s frequency and amplitude settings on your oscilloscope for reference.
-<br><br><br>  <br><br><br>  
+<br><br><br>  <br><br><br> 
+
 ### 2. Basic Questions on Capacitor Charge in DC Circuits
    - Describe what happens to a capacitor when **DC voltage** is first applied across an RC circuit. Consider how the capacitor voltage changes over time and what ultimately happens as it charges.
    <br><br><br>  <br><br><br>  
    - Explain the role of the **resistor** in limiting the rate of capacitor charge.
    <br><br><br>  <br><br><br>  
    - Describe how current changes in the circuit as the capacitor nears the supply voltage.
-   <br><br><br>  <br><br><br>  
+   <br><br><br>  <br><br><br> 
+
    - **Resource**: [EveryCircuit Simulation for RC Circuit](https://everycircuit.com/circuit/5103054453735424)
 
 ### 3. RC Charge and Discharge with Square Wave Input (Procedure)
-   - **Objective**: Duplicate the RC circuit shown in the [EveryCircuit Simulation](https://everycircuit.com/circuit/6541927687913472) using  **10 ms period**.
-   - Components: Use a **10K resistor** and a **.1 µF capacitor**. (.1µF is 104 ceramic cap)
+   - **Objective**: Duplicate the RC circuit shown in the [EveryCircuit Simulation](https://everycircuit.com/circuit/6541927687913472) using  **2 ms period**.
+   - Components: Use a **4.7K resistor** and a **.01 µF capacitor**. (.01µF is 103 ceramic cap)
    - **Setup**: Connect the oscilloscope to display both the square wave input and the capacitor’s charge/discharge curve.
    - Observe and record the **voltage across the capacitor** as it charges and discharges with each cycle of the square wave.
 
@@ -126,17 +129,18 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
 ### Low-Pass Filter Investigation
 
 1. **Overview**
-   - Investigate a **low-pass filter** circuit consisting of a **1K resistor** and **1 µF capacitor** connected to ground.
+   - Investigate a **low-pass filter** circuit consisting of a **10K resistor** and **.1 µF capacitor** connected to ground (.1µF is 104).
 2. **Procedure**
    - **Step 1**: Set up the low-pass filter circuit.
-   - **Step 2**: Measure the **output signal across the capacitor** with a **500 Hz input frequency**.
-   - **Step 3**: Increase the input frequency to **1 kHz** and add a second 1 µF capacitor in parallel. Record data below.
+   - **Step 2**: Measure the **output signal across the capacitor** with a **1K Hz input frequency**.
+   - **Step 3**: Increase the input frequency to **2 kHz** and note changs. 
+   - **Step 4**: Add a second 1 µF capacitor in parallel. Record data below.
 
 | Input Frequency | Capacitor Configuration      | Output Voltage (V peak-to-peak) | Observations                       |
 |-----------------|------------------------------|----------------------------------|------------------------------------|
-| 500 Hz          | Single 1 µF capacitor        |                                  |                                    |
-| 1 kHz           | Single 1 µF capacitor        |                                  |                                    |
-| 1 kHz           | Two 1 µF capacitors in parallel |                               |                                    |
+| 1 KHz          | Single 1 µF capacitor        |                                  |                                    |
+| 2 kHz           | Single 1 µF capacitor        |                                  |                                    |
+| 2 kHz           | Two 1 µF capacitors in parallel |                               |                                    |
 
 ---
 
@@ -145,7 +149,7 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
 ### High-Pass Filter Investigation
 
 1. **Overview**
-   - Explore a **high-pass filter** with a **0.1 µF capacitor** and **1K resistor**. Input is a 2V DC offset and 1 kHz, 2V peak-to-peak AC signal.
+   - Explore a **high-pass filter** with a **0.1 µF capacitor** and **10K resistor**. Input is a 2V DC offset and 1 kHz, 2V peak-to-peak AC signal.
 2. **Procedure**
    - **Step 1**: Investigate the high-pass filter behavior.
    - **Step 2**: Record data for **1 kHz and 10 kHz input frequencies** in the table below.
@@ -153,5 +157,5 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
 | Input Frequency | Input Amplitude (Peak-to-Peak) | Input DC Offset (V) | Output AC Voltage (V peak-to-peak) | Output DC Voltage (V) |
 |-----------------|--------------------------------|----------------------|-------------------------------------|------------------------|
 | 1 kHz           | 2V                             |                      |                                     | 0                      |
-| 10 kHz          | 2V                             |                      |                                     | 0                      |
+| 2 kHz          | 2V                             |                      |                                     | 0                      |
 
