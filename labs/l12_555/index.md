@@ -37,131 +37,135 @@ layout: default
 
 1. Describe what an Integrated Circuit (IC) is.
 
-<br><br><br><br>
+  <br><br><br><br>
 
 2. Refer to the data sheet provided in the Resources section to answer the following.
 
-- What is the recommended range for the supply voltage, V<sub>DD</sub>? (See section 5.3)
+  - What is the recommended range for the supply voltage, V<sub>DD</sub>? (See section 5.3)
 
-<br><br>
+  <br><br>
 
-- What is the maximum current that the discharge or output pins can *sink*? (See section 5.1)
+  - What is the maximum current that the discharge or output pins can *sink*? (See section 5.1)
 
-<br><br>
+  <br><br>
 
-- What is the maximum current that the discharge or output pins can *source*? (See section 5.1)
+  - What is the maximum current that the discharge or output pins can *source*? (See section 5.1)
 
-<br><br>
+  <br><br>
 
-- What is the typical value for the trigger voltage with V<sub>DD</sub> at 5V? (See section 5.6)
+  - What is the typical value for the trigger voltage with V<sub>DD</sub> at 5V? (See section 5.6)
 
-<br><br>
+  <br><br>
 
-- Which package type are we using? (See Package Information and class notes)
+  - Which package type are we using? (See Package Information and class notes)
 
-<br><br>
+  <br><br>
 
 3. Label the following pin functions on the image of the 555 DIP package below.
 
-- V<sub>DD</sub> or (or V<sub>CC</sub>)
-- GND (ground)  
-- TRIG (trigger)  
-- DISCH (discharge)
-- THRES (threshold)  
-- CONT (control voltage)
-- RESET
-- OUT (output)
+  - V<sub>DD</sub> or (or V<sub>CC</sub>)
+  - GND (ground)  
+  - TRIG (trigger)  
+  - DISCH (discharge)
+  - THRES (threshold)  
+  - CONT (control voltage)
+  - RESET
+  - OUT (output)
 
 
-<br><br><br><br>
+  <br><br><br><br>
 
-![alt text](555_DIP.png)
+  ![alt text](555_DIP.png)
 
 **Section II:  Monostable** 
 
 1. The following 555 circuit is for a monostable (one stable state) output.  When the switch is pressed, the time on in seconds is given by 
 *T<sub>ON</sub> = 1.1 ∗ RC*
 
-![alt text](555_monostable.png)
+  ![alt text](555_monostable.png)
 
-- Calculate T<sub>ON</sub> for the circuit shown above.
+  - Calculate T<sub>ON</sub> for the circuit shown above.
 
-<br><br><br><br>
+  <br><br><br><br>
 
-- Construct the above circuit and test it to be sure it functions as expected. (Note: substitute the 270Ω resistor with your 220Ω resistor)
+  - Construct the above circuit and test it to be sure it functions as expected. (Note: substitute the 270Ω resistor with your 220Ω resistor)
   - Instructor sign-off ________________
 
-- Measure T<sub>ON</sub> and record it below.
- <br><br>
--  Replace R with a 1 MΩ resistor.  Calculate T<sub>ON</sub>.
-<br><br> 
+  - Measure T<sub>ON</sub> and record it below.
+  
+  <br><br>
+  
+  -  Replace R with a 1 MΩ resistor.  Calculate T<sub>ON</sub>.
+  
+  <br><br> 
 
-- Measure T<sub>ON</sub> and record it below.
-<br><br>
+  - Measure T<sub>ON</sub> and record it below.
+  
+  <br><br>
 
-- Are the measured T<sub>ON</sub> values as expected?  If they are significantly different, double check the wiring and component values.
+  - Are the measured T<sub>ON</sub> values as expected?  If they are significantly different, double check the wiring and component values.
 
-<br><br><br><br>
+  <br><br><br><br>
 
 **Section III:  Astable** 
 
 1. The following 555 circuit is for an astable (no stable state) output. When powered, the operating frequency (in Hz) is calculated as follows: 
 
-- F = 1 / T
-- T = T<sub>ON</sub> + T<sub>ON</sub>
-- T<sub>ON</sub> = 0.693 * (R<sub>1</sub> + R<sub>2</sub>)
-- T<sub>OFF</sub> = 0.693 * R<sub>2</sub>C
+  - F = 1 / T
+  - T = T<sub>ON</sub> + T<sub>ON</sub>
+  - T<sub>ON</sub> = 0.693 * (R<sub>1</sub> + R<sub>2</sub>)
+  - T<sub>OFF</sub> = 0.693 * R<sub>2</sub>C
 
-![alt text](555_bistable.png)
+  ![alt text](555_bistable.png)
 
 
-- Calculate the operating frequency for the circuit shown above.
+  - Calculate the operating frequency for the circuit shown above.
 
-<br><br><br><br>
+  <br><br><br><br>
 
-- Construct the circuit and test it to be sure it functions as expected. (Note: Use two 10 μF capacitors in series to create the 5 μF value. Be sure to note polarity.)
+  - Construct the circuit and test it to be sure it functions as expected. (Note: Use two 10 μF capacitors in series to create the 5 μF value. Be sure to note polarity.)
 
     - Instructor sign-off ______________
     
-- Connect the output to an oscilloscope and measure the frequency. 
+  - Connect the output to an oscilloscope and measure the frequency. 
 
-<br><br>
+  <br><br>
 
-- Replace R2 with a 10 kΩ resistor.  Calculate the new operating frequency. 
+  - Replace R2 with a 10 kΩ resistor.  Calculate the new operating frequency. 
 
-<br><br>
+  <br><br>
 
-- Measure the operating frequency and record it below.
+  - Measure the operating frequency and record it below.
 
-<br><br>
+  <br><br>
 
-- Are the measured frequencies as expected?  If not, why? 
+  - Are the measured frequencies as expected?  If not, why? 
 
-<br><br><br><br>
+  <br><br><br><br>
 
 **Section IV:  Postlab** 
 
 1. List three applications for a 555 timer.
 
-<br><br><br><br> 
+  <br><br><br><br> 
 
 2. How are RC time constants used to control the frequency or T<sub>ON</sub> of a 555 timer circuit? 
 
-<br><br><br><br>
+  <br><br><br><br>
 
 3. You have an application that requires an output pulse of 60 seconds.  Using a 1000 μF capacitor, calculate a resistor value that will meet the circuit requirements.
 
-<br><br><br><br> 
+  <br><br><br><br> 
 
 4. You have an application that requires an operating frequency of 60 Hz.  Using R1 = 1kΩ and R2 =  100 kΩ, calculate a capacitor value that will meet the circuit requirements.
 
-<br><br><br><br>
+  <br><br><br><br>
 
 5. If R1 = R2 = 1kΩ, and C = 5 μF, calculate the following: 
 
-   T<sub>ON</sub>: 
+  - T<sub>ON</sub>: 
 
-   T<sub>OFF</sub>: 
+  - T<sub>OFF</sub>: 
 
-   Frequency: 
+  - Frequency: 
 
