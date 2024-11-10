@@ -1,7 +1,6 @@
 ﻿---
 layout: default
 ---
-
 ## EET103 Electrical Studies I
 
 ### [EET103](../../) - [Labs](../) - 555 Timer
@@ -11,7 +10,6 @@ layout: default
 **Name:** _____________________________
 
 ---
-
 ## Objectives
 - Review the datasheet for a 555 timer 
 - Identify the pinout for the 555 timer 
@@ -19,13 +17,9 @@ layout: default
 - Build an astable 555 timer circuit (oscillator) 
 - Operate an oscilloscope to take measurements on the signal 
 
-
 ## Materials
 - 555 timer
-- resistor, 100 kΩ
-- resistor, 1 MΩ 
-- resistor, 1 kΩ
-- resistor, 220 Ω
+- resistors -  220 Ω, 1 kΩ, , 100 kΩ, 1 MΩ 
 - capacitor, 10 μF (x2)
 - capacitor, 100 nF (104)
 - LED, any color
@@ -36,6 +30,8 @@ layout: default
 - [555 Lab - Monostable Multivibrator (One-shot)](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/555-monostable-multivibrator/){:target='_blank'}
 - [555 Timer Astable Oscillator Circuit](https://www.allaboutcircuits.com/tools/555-timer-astable-circuit/){:target='_blank'}
 - [TLC555 Data Sheet](labs/l13_555/tlc555.pdf){:target='_blank'}
+
+<br><br>
 
 **Section I:  Prelab (Refer to the 555 timer datasheet)** 
 
