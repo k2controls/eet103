@@ -19,7 +19,7 @@ Reading
 - [555 Timer Astable Oscillator Circuit](https://www.allaboutcircuits.com/tools/555-timer-astable-circuit/){:target='_blank'}
 
 
-[Lab 12 - 555 Timer Investigation](../../labs/l12_555/index.md)
+[Lab 12 - 555 Timer Investigation](../../labs/l12_555/index.md){:target='_blank'}
 
 <!-- - Relays (555 final project bread board?)
 - Transformers (voltage sources? step up/down) -->
