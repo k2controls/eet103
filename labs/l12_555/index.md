@@ -59,7 +59,7 @@ layout: default
 
   - Which package type are we using? (See Package Information and class notes)
 
-  <br><br>
+  <br><br><br><br>
 
 3. Label the following pin functions on the image of the 555 DIP package below.
 
