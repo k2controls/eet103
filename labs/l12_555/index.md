@@ -73,10 +73,12 @@ layout: default
   - OUT (output)
 
 
-  <br><br><br><br>
+  <br><br>
 
   ![alt text](555_DIP.png)
 
+  <br><br>
+  
 **Section II:  Monostable** 
 
 1. The following 555 circuit is for a monostable (one stable state) output.  When the switch is pressed, the time on in seconds is given by 
