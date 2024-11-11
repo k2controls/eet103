@@ -7,6 +7,13 @@ layout: default
 ### [EET103](../../../) - [Sprint 4](../../) - [Week 12](../) - Session 1
 
 **Session 1**
+- Schedule
+    - Today: 555 Timer monostable (Lab 12)
+    - Wednesday: 555 Timer astable (Lab 12)
+    - Monday, Nov 18 
+        - End of Sprint 4. All labs due.
+        - Lab review
+        - Final project kick off
 
 - [555 Lab - Introduction to the 555 Timer IC](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/555-ic/){:target='_blank'}
 - [555 Lab - Monostable Multivibrator (One-shot)](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/555-monostable-multivibrator/){:target='_blank'}
