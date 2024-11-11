@@ -149,11 +149,11 @@ layout: default
 
 1. List three applications for a 555 timer.
 
-  <br><br><br><br> 
+  - <br><br><br><br> 
 
 2. How are RC time constants used to control the frequency or T<sub>ON</sub> of a 555 timer circuit? 
 
-  <br><br><br><br>
+  - <br><br><br><br>
 
 3. You have an application that requires an output pulse of 60 seconds.  Using a 1000 μF capacitor, calculate a resistor value that will meet the circuit requirements.
 
