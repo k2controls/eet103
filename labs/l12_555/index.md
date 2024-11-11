@@ -35,11 +35,11 @@ layout: default
 
 **Section I:  Prelab (Refer to the 555 timer datasheet)** 
 
-1. Describe what an Integrated Circuit (IC) is.
+- Describe what an Integrated Circuit (IC) is.
 
   <br><br><br><br>
 
-2. Refer to the data sheet provided in the Resources section to answer the following.
+- Refer to the data sheet provided in the Resources section to answer the following.
 
   - What is the recommended range for the supply voltage, V<sub>DD</sub>? (See section 5.3)
 
@@ -61,7 +61,7 @@ layout: default
 
   <br><br><br><br>
 
-3. Label the following pin functions on the image of the 555 DIP package below.
+- Label the following pin functions on the image of the 555 DIP package below.
 
   - V<sub>DD</sub> or (or V<sub>CC</sub>)
   - GND (ground)  
@@ -81,37 +81,38 @@ layout: default
 
 **Section II:  Monostable** 
 
-1. The following 555 circuit is for a monostable (one stable state) output.  When the switch is pressed, the time on in seconds is given by 
+- The following 555 circuit is for a monostable (one stable state) output.  When the switch is pressed, the time on in seconds is given by 
 *T<sub>ON</sub> = 1.1 ∗ RC*
 
   ![alt text](555_monostable.png)
 
-  - Calculate T<sub>ON</sub> for the circuit shown above.
+- Calculate T<sub>ON</sub> for the circuit shown above.
 
   <br><br><br><br>
 
-  - Construct the above circuit and test it to be sure it functions as expected. (Note: substitute the 270Ω resistor with your 220Ω resistor)
+- Construct the above circuit and test it to be sure it functions as expected. (Note: substitute the 270Ω resistor with your 220Ω resistor)
+  
   - Instructor sign-off ________________
 
-  - Measure T<sub>ON</sub> and record it below.
+- Measure T<sub>ON</sub> and record it below.
   
   <br><br>
   
-  -  Replace R with a 1 MΩ resistor.  Calculate T<sub>ON</sub>.
+-  Replace R with a 1 MΩ resistor.  Calculate T<sub>ON</sub>.
   
   <br><br> 
 
-  - Measure T<sub>ON</sub> and record it below.
+- Measure T<sub>ON</sub> and record it below.
   
   <br><br>
 
-  - Are the measured T<sub>ON</sub> values as expected?  If they are significantly different, double check the wiring and component values.
+- Are the measured T<sub>ON</sub> values as expected?  If they are significantly different, double check the wiring and component values.
 
   <br><br><br><br>
 
 **Section III:  Astable** 
 
-1. The following 555 circuit is for an astable (no stable state) output. When powered, the operating frequency (in Hz) is calculated as follows: 
+- The following 555 circuit is for an astable (no stable state) output. When powered, the operating frequency (in Hz) is calculated as follows: 
 
   - F = 1 / T
   - T = T<sub>ON</sub> + T<sub>ON</sub>
@@ -121,27 +122,27 @@ layout: default
   ![alt text](555_bistable.png)
 
 
-  - Calculate the operating frequency for the circuit shown above.
+- Calculate the operating frequency for the circuit shown above.
 
   <br><br><br><br>
 
-  - Construct the circuit and test it to be sure it functions as expected. (Note: Use two 10 μF capacitors in series to create the 5 μF value. Be sure to note polarity.)
+- Construct the circuit and test it to be sure it functions as expected. (Note: Use two 10 μF capacitors in series to create the 5 μF value. Be sure to note polarity.)
 
-    - Instructor sign-off ______________
+  - Instructor sign-off ______________
     
-  - Connect the output to an oscilloscope and measure the frequency. 
+- Connect the output to an oscilloscope and measure the frequency. 
 
   <br><br>
 
-  - Replace R2 with a 10 kΩ resistor.  Calculate the new operating frequency. 
+- Replace R2 with a 10 kΩ resistor.  Calculate the new operating frequency. 
 
   <br><br>
 
-  - Measure the operating frequency and record it below.
+- Measure the operating frequency and record it below.
 
   <br><br>
 
-  - Are the measured frequencies as expected?  If not, why? 
+- Are the measured frequencies as expected?  If not, why? 
 
   <br><br><br><br>
 
