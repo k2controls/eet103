@@ -29,7 +29,7 @@ layout: default
 - [555 Lab - Introduction to the 555 Timer IC](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/555-ic/){:target='_blank'}
 - [555 Lab - Monostable Multivibrator (One-shot)](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/555-monostable-multivibrator/){:target='_blank'}
 - [555 Timer Astable Oscillator Circuit](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/cmos-555-long-duration-minimum-parts-red-led-flasher//){:target='_blank'}
-- [TLC555 Data Sheet](labs/l13_555/tlc555.pdf){:target='_blank'}
+- [TLC555 Data Sheet](tlc555.pdf){:target='_blank'}
 
 <br><br>
 
