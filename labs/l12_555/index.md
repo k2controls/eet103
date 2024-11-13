@@ -116,8 +116,8 @@ layout: default
 - The following 555 circuit is for an astable (no stable state) output. When powered, the operating frequency (in Hz) is calculated as follows: 
 
   - F = 1 / T
-  - T = T<sub>ON</sub> + T<sub>ON</sub>
-  - T<sub>ON</sub> = 0.693 * (R<sub>1</sub> + R<sub>2</sub>)
+  - T = T<sub>ON</sub> + T<sub>OFF</sub>
+  - T<sub>ON</sub> = 0.693 * (R<sub>1</sub> + R<sub>2</sub>)C
   - T<sub>OFF</sub> = 0.693 * R<sub>2</sub>C
 
   ![alt text](555_bistable.png)
