@@ -6,6 +6,8 @@ layout: default
 
 #### This is the end of Sprint 4. All labs are due. Session 1 will be working time enabling additional time for lab completion. 
 
+[Makerspace Garage Sale](MakersGarageSaleFall2024.pdf){:target='_blank'} - this Friday and Saturday
+
 ##### Schedule
 - Week 13
     - Session 1: Lab review and additional lab time
