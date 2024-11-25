@@ -25,11 +25,9 @@ layout: default
 
 ### Assignments
 Reading (Just basics of transformer primary and secondary)
-
 - [Mutual Inductance](https://www.allaboutcircuits.com/textbook/alternating-current/chpt-9/mutual-inductance-and-basic-operation/){:target='_blank'}
-
 - [Step Up/Step Down Transformers](https://www.allaboutcircuits.com/textbook/alternating-current/chpt-9/step-up-and-step-down-transformers/){:target='_blank'}
 
-- [Transformer Worksheet](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUQVM4Skk0SExDRDdNQllENTZIUTBRN0dSRy4u){:target='_blank'}
+[Transformer Worksheet](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUQVM4Skk0SExDRDdNQllENTZIUTBRN0dSRy4u){:target='_blank'}
 
-- Final Project - in process. Part 1 should be complete at this point.
+Final Project - in process. Part 1 should be complete at this point.
