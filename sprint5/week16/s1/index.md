@@ -8,6 +8,6 @@ layout: default
 
 **Session 1**
 
-
+<!-- not used -->
 
 [![back button](../../../back_button.png)](../)
