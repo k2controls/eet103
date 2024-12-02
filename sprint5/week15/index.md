@@ -21,12 +21,7 @@ layout: default
 ---
 
 ### Assignments
-https://www.geeksforgeeks.org/plc-programming-ladder-logic/?utm_source=chatgpt.com#examples-of-some-ladder-logic-programming
 
-https://www.plcacademy.com/ladder-logic-tutorial/?utm_source=chatgpt.com
-
-https://www.solisplc.com/tutorials/how-to-read-ladder-logic?utm_source=chatgpt.com
-
-- Relay Worksheet (use brad quiz. post to Forms as worksheet)
-- Final Project - in process. 
-- Final Exam Practice(https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUQzNCOUgwMUtESzg2WTNSOFVISDkyRUFURC4u){:target='_blank'} 
+- [Relay Worksheet](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNTdPUkZVNzAzVEJCTDFOM0QxOFBZTllFNi4u){:target='_blank'} 
+- Final Project - in process. Perfboard should be completed by the end of the week. Final assembly and testing next Monday.
+- [Final Exam Practice](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUQzNCOUgwMUtESzg2WTNSOFVISDkyRUFURC4u){:target='_blank'} 
