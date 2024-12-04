@@ -6,6 +6,8 @@ layout: default
 
 ### [EET103](../../../) - [Sprint 5](../../) - [Week 15](../) - Session 2
 
+**NOTE:** - - S2 Trigger Switch: Momentary pushbutton switch positioned from K12 to K14.
+
 **Session 2**
 Components for final build
 - Controller board with final checks 
