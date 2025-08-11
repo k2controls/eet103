@@ -15,7 +15,7 @@ layout: default
     
 - Textbook:[All About Circuits - DC](https://www.allaboutcircuits.com/textbook/direct-current/){:target="_blank"} 
 - Hardware: [Student Kit Bill of Materials (BOM)](../hardware_kit/EET103_kit_BOM.pdf){:target="_blank"}
-- Simulation: [Every Circuit](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html){:target="_blank"}
+- Simulation: [Every Circuit](https://everycircuit.com/app){:target="_blank"}
 ```
 EveryCircuit - License key details
 Organization: Northwestern Michigan College
