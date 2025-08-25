@@ -40,7 +40,7 @@ layout: default
             - Zero to maker
             - Maker to maker
             - Maker to entrapreneur
-        - [Schedule](https://calendar.google.com/calendar/u/0?cid=Y185azMydGVtNGs5ZXRsMGVqMDQ0a2s5bGV0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+        - [Schedule](https://calendar.google.com/calendar/u/0/r?cid=Y185azMydGVtNGs5ZXRsMGVqMDQ0a2s5bGV0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
         - Saturdays?
     - PS157A -Other Electronics Lab
 
