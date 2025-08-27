@@ -16,12 +16,15 @@ layout: default
 - Textbook:[All About Circuits - DC](https://www.allaboutcircuits.com/textbook/direct-current/){:target="_blank"} 
 - Hardware: [Student Kit Bill of Materials (BOM)](../hardware_kit/EET103_kit_BOM.pdf){:target="_blank"}
 - Simulation: [Every Circuit](https://everycircuit.com/app){:target="_blank"}
+
+<!-- 
 ```
 EveryCircuit - License key details
 Organization: Northwestern Michigan College
 License key: 561036398965
 Term: 08/23/2025 - 12/14/2025
-```
+``` 
+-->
 
 
 
@@ -30,6 +33,6 @@ Term: 08/23/2025 - 12/14/2025
 - Video Creation: [Creating A Zoom Video](https://k2controls.github.io/eet103/resources/CreatingAZoomVideo.pdf){:target="_blank"}
 - Simulation Starter: [PHET Circuit Construction](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html){:target="_blank"}
 
-- [Micrsoft Office (free)](tps://products.office.com/en-us/student/office-in-education){:target="_blank"}
+- [Microsoft Office (free)](https://products.office.com/en-us/student/office-in-education){:target="_blank"}
 - [How to Take a Screenshot (Windows)](https://bit.ly/2Lo423c){:target="_blank"}
 - [How to Take a Screenshot (Mac)](https://bit.ly/3cu9PjR){:target="_blank"}
