@@ -4,44 +4,71 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 2
+### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 1
 
-- Announcements	
-    - MakerSpace Meta - see Canvas
-        - Tech hours
-    - Review session recording
+cancelled -- see s2 for start
 
-### static electricity
-- Static Electricity(https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/static-electricity/)
-- Concepts of charge    
->>>One pioneering researcher, Benjamin Franklin, came to the conclusion that there was only one fluid exchanged between rubbed objects, and that the two different “charges” were nothing more than either an excess or a deficiency of that one fluid. After experimenting with wax and wool, Franklin suggested that the coarse wool removed some of this invisible fluid from the smooth wax, causing an excess of fluid on the wool and a deficiency of fluid on the wax. The resulting disparity in fluid content between the wool and wax would then cause an attractive force, as the fluid tried to regain its former balance between the two materials.
-- Measuring charge
->>>The operational definition of a coulomb as the unit of electrical charge (in terms of force generated between point charges) was found to be equal to an excess or deficiency of about 6,250,000,000,000,000,000 electrons. Or, stated in reverse terms, one electron has a charge of about 0.00000000000000000016 coulombs. Being that one electron is the smallest known carrier of electric charge, this last figure of charge for the electron is defined as the elementary charge
-- Additional review
-    - [Static Electricity Worksheet](https://www.allaboutcircuits.com/worksheets/static-electricity/){:target='_blank'}
-    - [Atomic Structure Worksheet](https://www.allaboutcircuits.com/worksheets/atomic-structure1/){:target='_blank'}
+<!-- 
+#### **Session 1**
 
-### Conductors, Insulators, and Electron Flow
+- Welcome! 
+- Instructor
+    - Keith E. Kelly
+    - kkelly@nmc.edu
+    - 231-995-1312 (email is a better option)
+- Course site - Canvas  
+    - Visit EET 103 Site
+        - nmc.edu -> myNMC -> Canvas
+    - Course structure (16 weeks)
+        - sprints (5)
+        - weeks (3 per sprint)
+        - sessions (2 per week)
+        - assignments - always due by Sunday at 11:59 PM. See W01
+        - test and quizzes - in class
+    - Syllabus
+- Sprint 1 partners
+    - Introductions
+        - Your name
+        - Degree? Major?
+        - Prior experience with electricity or electronics?
+        - What are your goals for this class?
+        - What other classes are you taking?
+- Survey of electronics
+    - [AI PROMPT] I'm considering a career as an electronics technician. Can you provide an oveview of possible industries or technologies that I should consider?
+    - [AI PROMPT] Perfect! Thank you. Can you give me an idea of the annual salaries that are typical in the midwest region?
+    - [AI PROMPT] How does a degree in electronics technology differ from an electronics engineering degree?
+- TOUR OF FACILITIES 
+    - NMC Makerspace
+        - Mission
+            - Zero to maker
+            - Maker to maker
+            - Maker to entrapreneur
+        - [Schedule](https://calendar.google.com/calendar/u/0/r?cid=Y185azMydGVtNGs5ZXRsMGVqMDQ0a2s5bGV0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+        - Saturdays?
+    - PS157A -Other Electronics Lab
 
-- [See All About Circuits - Chapter 1](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/conductors-insulators-electron-flow/){:target='_blank'}
+*BREAK*
 
-#### Conductors vs Insulators
+- EET103 Student Kit
+    - [Bill of Materials](../../../hardware_kit/EET103_kit_BOM.pdf)
+    - Kit review
+    
+- Electronic Circuit - a first look
+    - ![led circuit](led_circuit.jpg)
+    - ![dc motor](motor_circuit.png)
 
-- [AI Prompt] - Is gold the best conductor? What other options are there?
+- Our build progression
+    - Schematic
+    - Simulation
+    - Prototyping (may use breadboard - see sprint 2)
+    - Printed Circuit Board (PCB)
 
-#### Electron Flow / Electric Current
+- Review of online text and assigned reading
+    - [All About Circuits](https://www.allaboutcircuits.com/textbook/direct-current/){:target='_blank'}
+    - [PDF version of text](<../../../resources/All about circuits - DC.pdf>){:target='_blank'}
+    - Chapter 1 assigned
 
-#### Electrical Continuity
-- A first look at the UT33B+ Digital Multimeter (DVM)
+- Introduction to video camera and headset use
 
-![alt text](ut33b+_meter.png)
 
-- [Lab 01 Testing Continuity](../../../labs/l01_continuity/index.md)
-
-#### Soldering Introduction
-- This introduction is contained in the Lab 01 experience
-
-#### Review
-- [Conductors-Insulators worksheet](worksheet.md)
-
-[![back button](../../../back_button.png)](../)
+[![back button](../../../back_button.png)](../) -->

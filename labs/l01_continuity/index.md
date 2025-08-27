@@ -49,7 +49,7 @@ Follow along with the instructor as he or she uses the DVM to test continuity
    [**AI Prompt:**] - How do SPST, SPDT, and DPDT switches work? Can you provide comparisons and possibly images of their internals?
 
 8. From your student kit select one pushbutton switch and one SPDT toggle switch.
-9. Use what you have learned about testing for continuity to test the switch function. Is this difficult give the small size of the components and their terminals?
+9. Use what you have learned about testing for continuity to test the switch function. Is this difficult given the small size of the components and their terminals?
 10. To make the small switch components more functional for our initial tests, you will add leads to both a push button switch and a toggle switch. You will attach the leads to the devices by soldering jumper wires from your kit to the component leads.
 
 #### Soldering Demonstration

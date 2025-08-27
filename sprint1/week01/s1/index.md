@@ -4,9 +4,9 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 1
+### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 2
 
-#### **Session 1**
+#### **Session 2**
 
 - Welcome! 
 - Instructor
@@ -68,4 +68,4 @@ layout: default
 - Introduction to video camera and headset use
 
 
-[![back button](../../../back_button.png)](../)
+[![back button](../../../back_button.png)](../) -->
