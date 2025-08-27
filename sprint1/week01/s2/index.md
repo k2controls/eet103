@@ -4,12 +4,9 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 1
+### [EET103](../../../) - [Sprint 1](../../) - [Week 1](../) - Session 2
 
-cancelled -- see s2 for start
-
-<!-- 
-#### **Session 1**
+#### **Session 2**
 
 - Welcome! 
 - Instructor
