@@ -24,6 +24,8 @@ layout: default
         - Resistance
         - Voltage and Current in a Practical Circuit
         - Conventional Versus Electron Flow
+
+<!-- 
 - **Complete Lab 1 with associated Zoom video**
 - **Post video to W02 link by Sunday night**
-- **Complete Quiz 1 in class**
+- **Complete Quiz 1 in class** -->
