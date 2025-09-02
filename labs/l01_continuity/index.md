@@ -67,7 +67,10 @@ Follow along with the instructor as he or she demonstrates soldering techniques 
 ![alt text](test_leads.jpg) 
 
 4. Use your DVM to determine with of the four terminals on the pushbutton switch are always connected and which are *switched on* when you press the button. 
-5. Follow the techniques demonstrated by your instructor as well as content in the video lessons that were located by your AI prompt. Connect the **four** test leads to the pushbutton. 
+5. Follow the techniques demonstrated by your instructor as well as content in the video lessons that were located by your AI prompt. Connect the **four** test leads to the pushbutton using green and yellow jumper wires from your kit. Solder connections to the four pins such that:
+   1. There is always continuity between the two green leads.
+   2. There is always continuity between the two yellow leads.
+   3. There is only continuity between the yellow and green leads when the pushbutton is depressed.
 
 ![alt text](pb_switch_w_leads.jpg)
 
@@ -80,7 +83,7 @@ Use the DVM to test your solder joints and switch function. Validate the followi
 ![alt text](pb_cont_test_open.jpg)  ![alt text](pb_cont_test_pressed.jpg) 
 
 
-6. Based on your earlier research on switch types, specfically the SPDT toggle switch, repeat the soldering and testing procedure above for one of your kit toggle switches.
+6. Based on your earlier research on switch types, specfically the SPDT toggle switch, repeat the soldering and testing procedure above for one of your kit toggle switches (use the large one).
 7. Be sure you understand terminal connections and use one lead color for the common terminal and the second lead color for the two switched terminals.
 8. Consider the testing requirements for this component and validate your solder joints and switch function using your DVM.
 
