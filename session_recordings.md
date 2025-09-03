@@ -1,13 +1,13 @@
 ### Fall 2025
 ## EET103 Section 1719
 ### Session Recordings
-
+- [8/25/2025]() <!-- no class -->
+- [08/27/2025]()  <!-- no recording -->
+- [09/01/2025]()  <!-- no class -->
+- [09/03/2025](https://nmc.zoom.us/rec/share/UeZMsEfzmH31A1dbV5nEfhV3Sk122lA5hKU6OOEuZhT6BFDksQM3_HWevalK0fQQ.XRrTVltoaGeOJOcG)
 
 <!--
-- [8/25/2025]()
-- [08/27/2025]()
-- [09/01/2025]()
-- [09/03/2025]()
+
 - [09/08/2025]()
 - [09/10/2025]()
 - [09/15/2025]()
