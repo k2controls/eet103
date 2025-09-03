@@ -12,7 +12,7 @@ layout: default
     - Review session recording
 
 ### static electricity
-- Static Electricity(https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/static-electricity/)
+- [Static Electricity](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/static-electricity/){:target='_blank'}
 - Concepts of charge    
 >>>One pioneering researcher, Benjamin Franklin, came to the conclusion that there was only one fluid exchanged between rubbed objects, and that the two different “charges” were nothing more than either an excess or a deficiency of that one fluid. After experimenting with wax and wool, Franklin suggested that the coarse wool removed some of this invisible fluid from the smooth wax, causing an excess of fluid on the wool and a deficiency of fluid on the wax. The resulting disparity in fluid content between the wool and wax would then cause an attractive force, as the fluid tried to regain its former balance between the two materials.
 - Measuring charge
