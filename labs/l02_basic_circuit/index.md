@@ -4,97 +4,143 @@ layout: default
 
 ## EET103 Electrical Studies I
 
-### [EET103](../../) - [Labs](../) - Basic Circuits
+### [EET103](../../) - [Labs](../) - Lab 2 Basic Circuits
 
-#### Objectives: 
+#### Objectives
 
-- Wire basic circuits by interpreting schematic diagrams
-- Identify voltage sources and circuit load
-- Use pushbutton and SPDT switches to control circuit operation
-- Measure load current using a ammeter function of the DMM.
-- Measure load voltage using the voltmeter function of the DVM.
-- Demonstrate SPDT circuit operation discussing voltage sources and conventional current pathways.
+- Wire basic circuits by interpreting schematic diagrams  
+- Identify voltage sources and circuit loads  
+- Use pushbutton and SPDT switches to control circuit operation  
+- Measure load current using the ammeter function of the DMM  
+- Measure load voltage using the voltmeter function of the DMM  
+- Demonstrate SPDT circuit operation and discuss voltage sources and conventional current pathways  
 
-#### Materials: 
+---
 
-- Digital multimeter (DMM) 
-- AA battery holder (x3)
-- AA battery (x3)
-- Active buzzer (see kit inventory image)
-- DC Motor
-- Momentary pushbutton switch
-- SPDT toggle switch
-- Test leads with alligator clips
+#### Materials
 
-#### Demonstration - Load current and voltage using the DMM
+- Digital multimeter (DMM)  
+- AA battery holder (x3)  
+- AA battery (x3)  
+- Active buzzer (see kit inventory image)  
+- DC Motor  
+- Momentary pushbutton switch  
+- SPDT toggle switch  
+- Test leads with alligator clips  
 
-Follow along with the instructor as he or she uses the DMM to measure both load voltage and load current.
+---
 
-**Part 1 - Circuit A**
+### Demonstration – Load Current and Voltage Using the DMM
+Follow along with the instructor as they use the DMM to measure both load voltage and load current.  
 
-1. Select the active buzzer from your parts kit. There are two buzzers provided. Use the inventory guide located in the lid of the parts kit to select the active buzzer. The instructor will explain the difference between *active* and *passive* buzzers.
+---
 
-2. Using the supplied battery holder and test leads, connect the 1.5V AA battery to the buzzer. Include the momentary pushbutton with leads that you constructed in Lab 1. See the schematic diagram below.
+## Part 1 – Circuit A
 
-![AA battery connected to buzzer](circuitA.png)
+1. Select the **active buzzer** from your kit (two buzzers are provided). Use the inventory guide in the kit lid to confirm the active buzzer. The instructor will explain the difference between *active* and *passive* buzzers.  
+2. Using the battery holder and test leads, connect a 1.5 V AA battery to the buzzer. Include the momentary pushbutton (from Lab 1). See schematic below:  
 
-3. Test your circuit. Does the buzzer sound when the switch is depressed?
+   ![AA battery connected to buzzer](circuitA.png)  
 
-4. Next, use the DMM to measure the current draw from the battery. In this circuit the buzzer is considered the *load* in the circuit and the AA battery is considered the *source*. Note the second schematic in Circuit A shown above where an ammeter is connected in series with the load to measure load current.
+3. Test your circuit. Does the buzzer sound when the switch is pressed?  
+4. Use the DMM to measure the current draw from the battery. In this circuit:  
+   - The buzzer is the **load**.  
+   - The AA battery is the **source**.  
 
-   [**AI Prompt:**] - What is the typical input impedence or resistance of a digital multimeter inserted into a circuit as a ammeter to measure load current?
+   See the second schematic where an ammeter is placed in series with the load.  
 
-   [**AI Prompt:**] - What happens when the DMM is connected as an ammeter and it is mistakely connected directly across the source voltage?
+   [**AI Prompt:**] What is the typical input resistance of a digital multimeter when used as an ammeter?  
 
-8. Set your DMM to measure DC current as shown in the image below. Review the instructor's demonstration on meter use if required.
-![alt text](DMM_as_ammeter.png)
+   [**AI Prompt:**] What happens if the DMM is mistakenly connected directly across the source while set as an ammeter?  
 
-9. Depress the momentary switch. The buzzer will sound and the current flowing through this load is shown on your DMM. 
+5. Set the DMM to measure DC current (see image below). Review the instructor’s demonstration if needed.  
 
-10. Create a very short video demonstrating Circuit A along with measuring its current flow. Discuss circuit construction, DMM usage including its internal resistance, and your results.
+   ![alt text](DMM_as_ammeter.png)  
 
-**Part 2 - Circuit B**
+6. Press the switch. The buzzer will sound and the current will display on the DMM. Typical values: **20–30 mA**.  
+7. Record a short video demonstrating Circuit A, including current measurement and a brief explanation of DMM internal resistance.  
 
-1. Select the dc motor from your parts kit along with three AA battery holders and batteries. You will also use the SPDT switch assembly that you created in Lab 1.
+#### Circuit A – Video Checklist (10 pts)
 
-2. Using the supplied battery holders and integreted leads, connect three 1.5V AA batteries in series. See the schematic diagram below.
+☑ Identify the buzzer correctly  
+☑ Show completed circuit and explain wiring  
+☑ Demonstrate buzzer operation with switch  
+☑ Measure load current with DMM in series, explain process  
+☑ Provide clear video explanation of construction, DMM use, and results  
 
-![Thee AA batteries with DC motor](circuitB.png)
+---
 
-3. Connect one of the SPDT toggle switch terminals to the DC motor and complete the circuit by connecting the SPDT toggle switch common lead to Point A in the circuit. 
+## Part 2 – Circuit B
 
-4. Test your circuit. Does the motor spin when the toggle switch is turn on? Use a small piece of tape on the motor shaft to assist with your testing.
+1. Select the DC motor, three AA battery holders, three AA batteries, and the SPDT switch assembly from Lab 1.  
+2. Connect three 1.5 V AA batteries in series using the holders. See schematic below:  
 
-   [**AI Prompt:**] - What is the typical input impedence or resistance of a digital multimeter inserted into a circuit as a voltmeter to measure load voltage?
+   ![Three AA batteries with DC motor](circuitB.png)  
 
-   [**AI Prompt:**] - What happens when the DMM is connected as an voltmeter and it is mistakely connected in series with a load?
+3. Connect one SPDT terminal to the motor and the common terminal to Point A of the circuit.  
+4. Test the circuit. Does the motor spin when the toggle switch is turned on? Add a small piece of tape to the motor shaft for visibility.  
+5. Use the DMM to measure the **voltage across the motor**. In this circuit:  
+   - The motor is the **load**.  
+   - The battery pack is the **source**.  
 
-5. Next, use the DMM to measure the load voltage across the DC motor terminals. In this circuit the motor is considered the *load* in the circuit and the AA battery is considered the *source*. 
+   [**AI Prompt:**] What is the typical input resistance of a digital multimeter when used as a voltmeter?  
 
-8. Move the common lead on the SPDT toggle switch to position B. Record your observations along with the load voltage.
+   [**AI Prompt:**] What happens if the DMM is mistakenly connected in series with a load while set as a voltmeter?  
 
-8. Move the common lead on the SPDT toggle switch to position C. Record your observations along with the load voltage.
+6. Move the SPDT switch common to **position B**. Record your observations and motor voltage.  
+7. Move the SPDT switch common to **position C**. Record your observations and motor voltage.  
+8. Record a short video demonstrating Circuit B, including voltage measurement and a discussion of how adding batteries in series affects circuit voltage.  
 
-10. Create a very short video demonstrating Circuit B along with measuring load voltage. Discuss the impact on circuit voltage as batteries are added in series. What do you think will happen if the three batteries are connected in parallel rather than series?
+#### Circuit B – Video Checklist (10 pts)
 
-**Part 3 - Circuit C**
+☑ Identify motor, batteries, and SPDT switch correctly  
+☑ Show completed circuit and explain wiring  
+☑ Demonstrate motor operation with switch  
+☑ Measure and explain load voltage with DMM  
+☑ Provide clear video explanation of circuit operation and measurements  
 
-1. Using the parts selected during Part 1 and Part 2, construct Circuit C shown in the schematic diagram below.
+---
 
-![Thee AA batteries with buzzer and DC motor](circuitC.png)
+## Part 3 – Circuit C
 
-3. Review the circuit construction. How should it function or operate? Test your circuit. Was your assumption correct? Validate your build by comparing it to another class member.
+1. Using the parts from Circuits A and B, construct Circuit C as shown below:  
 
-5. With the switch in position A, what is the voltage across the motor? With the switch in position B, what is the voltage across the motor?
+   ![Three AA batteries with buzzer and DC motor](circuitC.png)  
 
-5. With the switch in position A, what is the voltage across the buzzer? With the switch in position B, what is the voltage across the buzzer?
+2. Review your circuit. How should it function? Test your build and compare results with a classmate.  
+3. With the switch in **position A**, measure voltage across:  
+   - Motor  
+   - Buzzer  
+4. With the switch in **position B**, measure voltage across:  
+   - Motor  
+   - Buzzer  
+5. Insert the DMM in series to measure total current from the battery pack. Switch between positions A and B.  
+   - Compare motor vs buzzer current.  
+   - Which draws higher current? Why? (Expected: motor).  
+6. Predict current if the switch was removed and both loads were connected directly in parallel.  
+7. Record a short video demonstrating Circuit C, including current measurements and explanation of motor vs buzzer load impact.  
 
-6. Next, insert the DMM to measure the load current flowing from the batteries. Switch the toggle switch between A and B. How much current does the motor draw from the source? How much current doe the buzzer draw from the source. Which draws the higher current? Why? 
+#### Circuit C – Video Checklist (15 pts)
 
-10. Create a very short video demonstrating Circuit C along with measuring load current. Discuss the impact of the two different load on load current. What load current would you expect if the switch was removed and both the buzzer and motor loads were connected together across the batteries?
+☑ Assemble Circuit C correctly from Circuits A and B  
+☑ Explain expected behavior before testing  
+☑ Demonstrate operation and confirm results  
+☑ Measure voltage across motor and buzzer (positions A & B)  
+☑ Measure and compare current drawn by motor vs buzzer  
+☑ Explain expected current if loads were connected directly (no switch)  
+☑ Provide clear video explanation of construction, testing, and results  
 
+---
 
-### Video Assessment Rubric
-#### Basic Circuits
+## Reflection Question (optional)
+What common mistakes can occur when using the DMM as an ammeter or voltmeter, and how can you avoid them?  
 
-[Lab 02 Basic Circuits - Scoring Rubric](l02_rubric.pdf){:target='_blank'}
+---
+
+## Video Assessment Rubric
+This lab is graded using the checklists embedded above:  
+- Circuit A (10 points)  
+- Circuit B (10 points)  
+- Circuit C (15 points)
+- [Lab 2 Rubric](l02_rubric.md)
+**Total = 35 points**  
