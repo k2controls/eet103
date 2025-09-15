@@ -185,4 +185,5 @@ Use this checklist to make sure your video includes all required parts.
 ### 5. Reflection
 - [ ] Describe any challenges you encountered (e.g., wiring issues, measurement errors).  
 - [ ] Share what you learned about series circuits from this lab.  
+
 ---
