@@ -9,24 +9,23 @@ layout: default
 **Session 1**
 
 - Review of Lab 2 - Basic Circuits
-        - Circuit A![circuit a](../../../labs/l02_basic_circuit/circuitA.png) 
-            - Ammeter measurment
-            - Internal resistance of an ammeter?
-            - Buzzer as a load - what current did you measure?
-            - Other take-aways or thoughts?
-        - Circuit B![circuit B](../../../labs/l02_basic_circuit/circuitB.png)
-            - Voltmeter measurement
-            - Internal resistance of a voltmeter?
-            - Voltage source in series
-            - Motor as a load
-            - Take-aways? Challenges?
-
-        - Circuit C![circuit c](../../../labs/l02_basic_circuit/circuitC.png)
-            - SPDT toggle to switch loads
-            - Load current comparison - Motor vs. Buzzer
-            - Total load current if both connected?
-            - Load voltage with both connected?
-            - Take-aways? Challenges?
+    - Circuit A![circuit a](../../../labs/l02_basic_circuit/circuitA.png)
+        - Ammeter measurment
+        - Internal resistance of an ammeter?
+        - Buzzer as a load - what current did you measure?
+        - Other take-aways or thoughts?
+    - Circuit B![circuit B](../../../labs/l02_basic_circuit/circuitB.png)
+        - Voltmeter measurement
+        - Internal resistance of a voltmeter?
+        - Voltage source in series
+        - Motor as a load
+        - Take-aways? Challenges?
+    - Circuit C![circuit c](../../../labs/l02_basic_circuit/circuitC.png)
+        - SPDT toggle to switch loads
+        - Load current comparison - Motor vs. Buzzer
+        - Total load current if both connected?
+        - Load voltage with both connected?
+        - Take-aways? Challenges?
 
 - Math for Electronics
     - Scientific notaton and metric prefixes
@@ -68,7 +67,7 @@ layout: default
 
     - [AI Prompt] - How does this data relate to Ohm's Law?
 
-    - If power is voltage times current <span>$$P = V x R$$</span> or the square of the current times the resistance $$P = I^2 R$$ then what is happening to power dissipation in the generated graph?
+    - If power is voltage times current **P = V x R** or the square of the current times the resistance **P = I^2 R** then what is happening to power dissipation in the generated graph?
 
     - [AI Prompt:] - Can you plot power for this resistor given the current in the graph?
 
