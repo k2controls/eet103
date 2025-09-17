@@ -26,7 +26,7 @@ By the end of this lab, you should be able to:
 - Digital multimeter (DMM)  
 - Breadboard  
 - Resistors: 100 Ω, 220 Ω, 330 Ω (5% tolerance)  
-- Breadboard power supply module (set to 9 V DC)  
+- Breadboard power supply module (set to 5 V DC)  
 - Test leads  
 - EveryCircuit account (link and license key provided)  
 
@@ -60,7 +60,7 @@ Term: 08/23/2025 - 12/14/2025
 4. **Build the Circuit in EveryCircuit**  
    - Use the toolbar to create the circuit shown below.  
    - Include the ground symbol.  
-   - Supply voltage: 9 V DC.  
+   - Supply voltage: 5 V DC.  
    - Ensure both partners use the same resistor values and positions.  
 
    ![series circuit](series_circuit.png)  
@@ -167,7 +167,7 @@ Use this checklist to make sure your video includes all required parts.
 - [ ] Measure each resistor with the DMM and report the values.  
 
 ### 2. Simulation (EveryCircuit)
-- [ ] Open EveryCircuit with the correct resistor values and 9 V DC source.  
+- [ ] Open EveryCircuit with the correct resistor values and 5 V DC source.  
 - [ ] Run the simulation and show current flow.  
 - [ ] Show how voltage is divided across the resistors.  
 - [ ] Fill in and display the simulation results table.  
