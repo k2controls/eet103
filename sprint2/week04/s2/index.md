@@ -43,9 +43,9 @@ layout: default
             - V<sub>CB</sub> = 
 
 
-Scientific Calculator Application 
-o RealCalc - Android Apps on Google Play 
-o Panecal Scientific Calculator on the App Store (apple.com)
+- Scientific Calculator Application 
+    - RealCalc - Android Apps on Google Play 
+    - Panecal Scientific Calculator on the App Store (apple.com)
 
 - Lab 3 simulation
     - Simulator available at: [https://everycircuit.com/app](https://everycircuit.com/app){:target='_blank'}
