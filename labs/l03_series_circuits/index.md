@@ -25,7 +25,7 @@ By the end of this lab, you should be able to:
 #### Materials
 - Digital multimeter (DMM)  
 - Breadboard  
-- Resistors: 100 Ω, 220 Ω, 330 Ω (5% tolerance)  
+- Resistors: 100 Ω, 220 Ω, 470 Ω (5% tolerance)  
 - Breadboard power supply module (set to 5 V DC)  
 - Test leads  
 - EveryCircuit account (link and license key provided)  
@@ -40,7 +40,7 @@ By the end of this lab, you should be able to:
    Simulate a DC circuit with three resistors connected in series using the EveryCircuit simulator.  
 
 2. **Select Resistors**  
-   Use: 100 Ω, 220 Ω, and 330 Ω.  
+   Use: 100 Ω, 220 Ω, and 470 Ω.  
 
 3. **Create an EveryCircuit Account**  
    - Link: [https://everycircuit.com/licensekeyactivation](https://everycircuit.com/licensekeyactivation){:target='_blank'}  
@@ -81,7 +81,7 @@ Term: 08/23/2025 - 12/14/2025
 |-----------|-------|------------------|-------------|
 | R1        | 100 Ω |                  |             |
 | R2        | 220 Ω |                  |             |
-| R3        | 330 Ω |                  |             |
+| R3        | 470 Ω |                  |             |
 
 8. **Subscript Variables and Test Points**  
    - Example: V<sub>A</sub> = voltage at point A.  
@@ -112,7 +112,7 @@ Term: 08/23/2025 - 12/14/2025
 |-----------|---------------|------------|--------------------|
 | R1        | 100 Ω         |            |                    |
 | R2        | 220 Ω         |            |                    |
-| R3        | 330 Ω         |            |                    |
+| R3        | 470 Ω         |            |                    |
 
 2. **Breadboard Overview**  
    - Watch: [How to Use a Breadboard](https://youtu.be/6WReFkfrUIk?si=2-5YteJZhcv01EYE){:target='_blank'}  
@@ -137,7 +137,7 @@ Term: 08/23/2025 - 12/14/2025
 |-----------|-------|----------------------------|-------------------------|-----------------------|--------------------|
 | R1        | 100 Ω |                            |                         |                       |                    |
 | R2        | 220 Ω |                            |                         |                       |                    |
-| R3        | 330 Ω |                            |                         |                       |                    |
+| R3        | 470 Ω |                            |                         |                       |                    |
 
 ---
 
@@ -162,7 +162,7 @@ Use this checklist to make sure your video includes all required parts.
 ---
 
 ### 1. Resistor Selection & Setup
-- [ ] Show the three resistors (100 Ω, 220 Ω, 330 Ω).  
+- [ ] Show the three resistors (100 Ω, 220 Ω, 470 Ω).  
 - [ ] Identify and explain their color codes.  
 - [ ] Measure each resistor with the DMM and report the values.  
 

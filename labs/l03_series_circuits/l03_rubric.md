@@ -1,4 +1,4 @@
-﻿# EET103 – Lab 3 Rubric  
+﻿330# EET103 – Lab 3 Rubric  
 **Series Circuits**  
 
 Student: ___________________________  
@@ -9,11 +9,11 @@ Partner: ___________________________
 ## Video Submission Checklist
 
 ### 1. Resistor Selection & Setup (5 pts)
-- [ ] Shows selected resistors (100 Ω, 220 Ω, 330 Ω).  
+- [ ] Shows selected resistors (100 Ω, 220 Ω, 470 Ω).  
 - [ ] Identifies color codes and confirms measured resistance values with DMM.  
 
 ### 2. Simulation (EveryCircuit) (8 pts)
-- [ ] Runs EveryCircuit with correct resistor values and 9 V DC source.  
+- [ ] Runs EveryCircuit with correct resistor values and 5 V DC source.  
 - [ ] Demonstrates current flow and voltage division.  
 - [ ] Presents completed simulation results table.  
 
