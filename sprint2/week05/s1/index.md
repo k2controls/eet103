@@ -41,9 +41,10 @@ layout: default
     - Additional review
         1. Flashlight Circuit (Cells in Series + Lamp)
             - 3×AA batteries (1.5 V each) in series → 4.5 V total
-            - Internal resistance: 0.2 Ω per cell → 0.6 Ω total
+            - Internal resistance: 0.2 Ω per cell → 0.6 Ω total  ![alt text](Figure_6.webp)
             - Lamp: ~20 Ω
-    
+   
+
         2. Voltage Divider (Scaling 12 V to ~3.3 V)
             - R1 = 26.7 kΩ, R2 = 10 kΩ
             - Divider ratio: Vout = Vin × (R2 / (R1+R2))
@@ -82,8 +83,9 @@ layout: default
      -->
 
 - Next session  
-    - [Worksheet 1 - Ohm's Law](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUOTBQMTg1MUVSTFlRUEJPVDY0UTZLUktWQS4u){:target='_blank'}** - prep for Quiz 4
+    - **[Worksheet 1 - Ohm's Law](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUOTBQMTg1MUVSTFlRUEJPVDY0UTZLUktWQS4u){:target='_blank'}** - prep for Quiz 4
         - Due this week
+        
     - Parallel circuits - an introduction
 
 - Lab 3 - status? issues?
