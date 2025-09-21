@@ -38,12 +38,23 @@ layout: default
         - what is the voltage drop on a resistor if circuit is open?
         - what if incorrect R value selected? 470K?
 
-    - Additional review 
-        - [DC Circuit Analysis: The Series Circuit (Wisc-online)](https://www.wisc-online.com/learn/career-clusters/stem/dce8304/dc-circuit-analysis-the-series-circuit){:target='_blank'}
-            - [Practice Problems: Circuit #9](https://www.wisc-online.com/learn/manufacturing-engineering/stem/dce13004/series-circuit-analysis-practice-problems-cir){:target='_blank'}
-            - [Practice Problems: Circuit #9](https://www.wisc-online.com/learn/manufacturing-engineering/stem/dce13304/series-circuit-analysis-practice-problems-cir){:target='_blank'}
-            - [Practice Problems: Circuit #9](https://www.wisc-online.com/learn/manufacturing-engineering/stem/dce14404/series-circuit-analysis-practice-problems-cir){:target='_blank'}
+    - Additional review
+        1. Flashlight Circuit (Cells in Series + Lamp)
+            - 3×AA batteries (1.5 V each) in series → 4.5 V total
+            - Internal resistance: 0.2 Ω per cell → 0.6 Ω total
+            - Lamp: ~20 Ω
+    
+        2. Voltage Divider (Scaling 12 V to ~3.3 V)
+            - R1 = 26.7 kΩ, R2 = 10 kΩ
+            - Divider ratio: Vout = Vin × (R2 / (R1+R2))
 
+        3. Two LEDs in Series + Resistor
+            - Supply: 9 V battery
+            - LEDs: 2× red (Vf ≈ 2.0 V each)
+            - If = 15 mA
+            - What is the value of current limiting R?
+
+  
 <!-- - DC Motor as a Load - revisited
     - Connect three 1.5V batteries in series
     - Use the larger SPDT switch provided to connect this source to the motor. Use you DMM to determine the switch pin out and be sure the switch is in the *OFF* position when connecting.
