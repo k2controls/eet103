@@ -12,7 +12,6 @@ layout: default
     - Circuit B - Loaded voltage sources
     - Circuit C - What is I<sub>T</sub> with both loads connected?
 
-- Quiz 2 makeup - today!
 - Quiz 3:Safety - Wednesday, Session 2
 
     - [The Importance of Electrical Safety](https://www.allaboutcircuits.com/textbook/direct-current/chpt-3/importance-electrical-safety/){:target='_blank'}
