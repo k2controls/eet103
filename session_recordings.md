@@ -9,12 +9,12 @@
 - [09/10/2025]() <!-- bad recording -->
 - [09/15/2025](https://nmc.zoom.us/rec/share/-IoIGDF9aCXyCeXGUBNKbxNNnIpXPxGepMkki7Q29l3cJzA6nQAs2957xZenhcZx.7vDUrT9NneDrS03S)
 - [09/17/2025](https://nmc.zoom.us/rec/share/itb49RiI9J_8pM17MY4MR-XLbDR7qFOiuaRmaloqDXL0vOU74P2OA_MheO_R9xhz.Iv30iIn1N6a2cAFG)
+- [09/22/2025](https://nmc.zoom.us/rec/share/WrE2xlhEvD0OgFJRv3NxXsCQlfrUFSncHhxzSpTgsGvhjuE0wPUeRP2NMi_XvZLO.q2OQg6TFodWn4vR_)
+
 
 
 <!--
 
-
-- [09/22/2025]()
 - [09/24/2025]()
 - [09/29/2025]()
 - [10/01/2025]()
