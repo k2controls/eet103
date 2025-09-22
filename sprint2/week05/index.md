@@ -31,7 +31,7 @@ layout: default
 - **Complete [Lab 3 - Series Circuits](../../labs/l03_series_circuits/){:target='_blank'}
     - **Partners assigned**
 
-- **Complete [Quiz 3: Safety (session 2)](https://forms.office.com/r/mT2B9DgxZw){:target='_blank'}** - in class Session 1
+- **Complete [Quiz 3: Safety (session 2)](https://forms.office.com/r/mT2B9DgxZw){:target='_blank'}**
 
 - **Complete [Worksheet 1 - Ohm's Law](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUOTBQMTg1MUVSTFlRUEJPVDY0UTZLUktWQS4u){:target='_blank'}** - prep for next week's Quiz 4
 
