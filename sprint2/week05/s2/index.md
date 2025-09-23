@@ -37,18 +37,16 @@ layout: default
         - If = 15 mA
         - What is the value of current limiting R?
 
-    3. Use a shunt to measure load current.
+- Use a shunt to measure load current.
 
 ![alt text](shunt_resistor.png)
 
-        - Inspect the power resistor provided by the instructor.
-        - Measure the actual value with your ohmmeter.
-        - Based on the size, what assumption can you make about the power rating of this device?
-        - Place the resistor in series with the motor load. Consider this a shunt resistor. 
-        - Apply 9V (or 5V is 9V is not available). Measure the voltage drop across the resistor and determine the load current.
-        - Does inserting this shunt resistor change the circuit? What improvements could be made?
-    ![shunt resistor use](shunt_resistor.png)
-
+    - Inspect the power resistor provided by the instructor.
+    - Measure the actual value with your ohmmeter.
+    - Based on the size, what assumption can you make about the power rating of this device?
+    - Place the resistor in series with the motor load. Consider this a shunt resistor. 
+    - Apply 9V (or 5V is 9V is not available). Measure the voltage drop across the resistor and determine the load current.
+    - Does inserting this shunt resistor change the circuit? What improvements could be made?
 
 - [Parallel Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-parallel-circuits/){:target='_blank'}
     - Voltage is the same across each branch (Current was the same in Series)
