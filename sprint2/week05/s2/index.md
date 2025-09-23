@@ -22,7 +22,7 @@ layout: default
         - Worksheet 1
 
 
-- Quiz 2 review(https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&collectionid=n11gwqsxu7fopf84cx7kng&id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUMlY0TjgzMEVOVFJOSkRaQ0cyVEtWV0NXUC4u&topview=Presentation){:target='_blank'}
+- [Quiz 2 review](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&collectionid=n11gwqsxu7fopf84cx7kng&id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUMlY0TjgzMEVOVFJOSkRaQ0cyVEtWV0NXUC4u&topview=Presentation){:target='_blank'}
 
 
 - Additional Series review
