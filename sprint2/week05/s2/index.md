@@ -65,7 +65,7 @@ layout: default
         - What is the total R of two 1K in parallel?
         - What is the total R of three 1K in parallel?
 
-- Introduction: [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/){:target='_blank'} (due next week)    
+- Introduction: [Lab 4 - Parallel Circuits](../../../labs/l04_parallel_circuits/){:target='_blank'} (due next week)    
 
 ***** BREAK *****
 
