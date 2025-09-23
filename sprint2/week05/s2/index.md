@@ -39,7 +39,7 @@ layout: default
 
 - Use a shunt to measure load current.
 
-![alt text](shunt_resistor.png)
+    - ![alt text](shunt_resistor.png)
 
     - Inspect the power resistor provided by the instructor.
     - Measure the actual value with your ohmmeter.
