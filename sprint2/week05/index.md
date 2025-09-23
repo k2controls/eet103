@@ -39,5 +39,5 @@ layout: default
 
 - **Complete [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/){:target='_blank'} with associated Zoom video**
 
-- **Complete Quiz 4: Ohm's Law
+- **Complete Quiz 4: Ohm's Law**
 
