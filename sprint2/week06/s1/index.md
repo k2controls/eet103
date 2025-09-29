@@ -16,6 +16,13 @@ layout: default
         - Worksheet 1 - Ohm's
     - Midterm alerts issued this week
     - Lab 4: Parallel due this week
+    - Quiz 4 (Ohm's Law) this week - session 2
+    - Gradebook review
+        - Missing Zoom content - check Zoom Trash
+        - Grade of 1 - flag for resubmit/regrade
+            - Submit for full credit
+        - Grade of 0 - missing
+            - Submit for late credit
 - Looking ahead
     - Week 7: Series-Parallel
     - Week 8: Midterm review
