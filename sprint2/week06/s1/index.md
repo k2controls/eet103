@@ -8,16 +8,18 @@ layout: default
 
 **Session 1**
 
-- Week 6 is end of Sprint 2
-    - Grading - Through
+- Grading
+    - Week 6 is end of Sprint 2
+    - Due last week
         - Lab 3 Series
         - Quiz 3 Safety
         - Worksheet 1 - Ohm's
     - Midterm alerts issued this week
     - Lab 4: Parallel due this week
-- Week 7: Series-Parallel
-- Week 8: Midterm review
-- Week 9: Midterm and Build/Solder project
+- Looking ahead
+    - Week 7: Series-Parallel
+    - Week 8: Midterm review
+    - Week 9: Midterm and Build/Solder project
 
 - [Quiz 3 review](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&collectionid=n11gwqsxu7fopf84cx7kng&id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNks0S1ZUS08yVFhBN0cySFJFVEJNWkxYTi4u){:target='_blank'}
 
