@@ -28,7 +28,7 @@ layout: default
         - Troubleshooting Series and Parallel Circuits
         - Building Resistor Circuits Using Breadboards, Perfboards, and Terminal Strips
 
-- **Complete [Quiz 4 (Ohm's Law)](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNUY1M0ZMWlVMQ0M1U1NIMkZaU0JHMlUzMy4u){:target='_blank'} in class**
+- **Complete [Quiz 4 (Ohm's Law)](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNUY1M0ZMWlVMQ0M1U1NIMkZaU0JHMlUzMy4u){:target='_blank'} in class during Session 2**
 
 - **Complete [Lab 4 - Parallel Circuits](../../labs/l04_parallel_circuits/){:target='_blank'} with associated Zoom video**
 
