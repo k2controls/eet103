@@ -16,6 +16,7 @@ layout: default
 - Grading
     - All updated
     - Lab 4 and Quiz 4 grades will be added early next week and grading for Sprint 2 finalized.
+    - Any Sprint 2 debt due this week. Send via email.
 
 - Schedule
     - Today - Series Quiz
