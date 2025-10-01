@@ -36,7 +36,7 @@ layout: default
         - voltage divider rule, current divider rule 
 
 - Series example 
-    - ROV teather
+    - ROV tether
     - Table method demo
     
 - Lab Time
