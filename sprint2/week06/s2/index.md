@@ -19,10 +19,10 @@ layout: default
     - Any Sprint 2 debt due this week. Send via email.
 
 - Schedule
-    - Today - Series Quiz
+    - Today - Ohm's Quiz
     - Week 07 Monday
         - Series-parallel combination circuits
-        - Parallel Quiz
+        - Series Quiz
     - Week 08 
         - Midterm review
         - Build/solder project

@@ -20,7 +20,8 @@ layout: default
         - Quiz 5 Series circuits on Wednesday
     - Week 08 
         - Midterm review
-        - Build/solder project
+        - Build/soldering project
+        - Quiz 6 Parallel
     - Week 09
         - Midterm is Monday, Oct 20
 
