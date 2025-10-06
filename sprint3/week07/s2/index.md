@@ -7,7 +7,8 @@ layout: default
 ### [EET103](../../../) - [Sprint 2](../../) - [Week 6](../) - Session 2
 
 **Session 2**
-- Schedule
+
+<!-- - Schedule
     - Today - Series Quiz
     - Week 07 Monday
         - Series-parallel Review
@@ -41,7 +42,7 @@ BREAK
 - [Lab 5 - Stop Light Breadboard](../../../labs/l05_stop_light_breadboard/index.md){:target='_blank'} 
     - Continued
     - Video due this week
-    
+     -->
 
 
 [![back button](../../../back_button.png)](../)
