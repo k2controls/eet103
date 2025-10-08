@@ -8,28 +8,21 @@ layout: default
 
 **Session 2**
 
-<!-- - Schedule
-    - Today - Series Quiz
-    - Week 07 Monday
-        - Series-parallel Review
-        - Prallel Quiz
-        - midterm review(see session 1 for midterm specification)
-    - Week 07 Wednesday
-        - Midterm
+- Schedule
+    - Today - Complete [Quiz 5 (Series Circuits)](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNEFEUk9DWERWUjFCVUtHSUNKMVVUUUs4TS4u){:target='_blank'}
 
-- Readings
-    - [Divider Circuits And Kirchhoff's Laws](https://www.allaboutcircuits.com/textbook/direct-current/chpt-6/voltage-divider-circuits/){:target='_blank'}
-        - KVL and KCL 
-        - voltage divider rule, current divider rule - after midterm
-    - [Series-parallel Combination Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-7/what-is-a-series-parallel-circuit/){:target='_blank'}
-        - very basic on midterm
-        - review on your own. See S1 for link to practice
-        - more review next monday
+    - Week 08 
+        - Midterm review
+        - Build/soldering project
+        - Quiz 6 Parallel
+    - Week 09
+        - Midterm is Monday, Oct 20
 
 - [Lab 5 - Stop Light Breadboard](../../../labs/l05_stop_light_breadboard/index.md){:target='_blank'}
     - Issues?
-    - Review of procedure and rubric
-     is assigned for this week.
+    - Note: You must wire according to schematic. Pushbutton switch energizes LED leg.
+    - Review of procedure and rubric 
+    - Due this week including partner and instructor checks.
 
 - [Lab 6 - Stop Light Perfboard](../../../labs/l06_stop_light_perfboard/index.md){:target='_blank'}
     - Preview - due next week.
@@ -42,7 +35,7 @@ BREAK
 - [Lab 5 - Stop Light Breadboard](../../../labs/l05_stop_light_breadboard/index.md){:target='_blank'} 
     - Continued
     - Video due this week
-     -->
+    
 
 
 [![back button](../../../back_button.png)](../)
