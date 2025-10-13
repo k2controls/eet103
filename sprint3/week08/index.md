@@ -17,6 +17,9 @@ layout: default
 ---
 
 ### Assignments
-- Midterm Review 
+- [Midterm Review](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUME5OSVZMSENBOURFUU9JU0dQOUs3R0xNUC4u){:target='_blank'}
+    - Open now through Wednesday prior to class
+    - *not graded*
+    - multiple submissions are allowed 1 
 - [Lab 6 - Stop Light Perfboard](../../labs/l06_stop_light_perfboard/index.md)
 

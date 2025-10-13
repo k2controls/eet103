@@ -25,7 +25,10 @@ layout: default
     - 15 minutes
     - must be completed during class
 
-
+- [Midterm Review](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUME5OSVZMSENBOURFUU9JU0dQOUs3R0xNUC4u){:target='_blank'}
+    - Open now through next Monday prior to exam
+    - *not graded*
+    - multiple submissions are allowed 
 
 
 [![back button](../../../back_button.png)](../)
