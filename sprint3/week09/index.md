@@ -22,4 +22,4 @@ layout: default
     - [Blank worksheets](../../resources/Circuit_Analysis_Table.pdf){:target='_blank'} (table format) allowed
     - **Submit all exam hardcopy and worksheets at completion. Staple all and include your name.**
 
-- [Soldering - Signal Generator](../../labs/l07_sig_gen_build/index.md)
+- [Lab 7 - Soldering - Signal Generator](../../labs/l07_sig_gen_build/index.md)

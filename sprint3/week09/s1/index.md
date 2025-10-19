@@ -17,12 +17,14 @@ layout: default
     - [Blank worksheets](../../resources/Circuit_Analysis_Table.pdf){:target='_blank'} (table format) allowed
     - **Submit all exam hardcopy and worksheets at completion. Staple all and include your name.**
 
-- [Soldering - Signal Generator](../../../labs/l07_sig_gen_build/index.md)
+- [Lab 7 - Soldering - Signal Generator](../../../labs/l07_sig_gen_build/index.md){:target='_blank'}
     - *Do not build housing until testing is completed.*
     - See setup at the back of the room for testing. 
     - More testing and bench work on Wednesday.
     - If unit checks out, create video reviewing build.
     - Complete build with PCB and acrylic housing.
+
+- Additional [Lab 7 resources are here](../s2/sig_gen_build.md){:target='_blank'}. We'll review during Session 2.
 
 
 [![back button](../../../back_button.png)](../)
