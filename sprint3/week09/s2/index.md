@@ -8,11 +8,22 @@ layout: default
 
 **Session 2**
 
+- Parallel Quiz review
 - Midterm review
 
+- This week (Week09) is the end of Sprint 3
+    - All debt due this week.
+    - Lab 7 Sig Gen lab is in-progess (Sprint 4)
+    
 - [Lab 7: Signal Generator Build](../../../labs/l07_sig_gen_build/index.md) 
     - [process review](sig_gen_build.md)
-    - Assessment checklist and video required
+    - Assessment checklist with instructor check required
+    - Video required - short video providing the following.
+        - What is a signal generator?
+        - Discuss your build process.
+            - Where you able to construct the circuit?
+            - What will you do differently the next time?
+        - Describe the operation and testing procedure using the oscilloscope (brief).
 
 
 [![back button](../../../back_button.png)](../)
