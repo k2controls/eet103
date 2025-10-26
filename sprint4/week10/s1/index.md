@@ -15,9 +15,10 @@ layout: default
         - Simple AC Circuit Calculations
 
 - Lab 08 - DC Bench Supply
-    - instructor check required
+    - Instructor demo
+    - Student repeats - lab check required
 
-- Lab 09 - Scope (none)
+- Lab 09 - Scope (none - see Lab 10)
 
 - [Lab 10](../../../labs/l10_sig_gen_with_scope/index.md) {:target="_blank"}
     - Submit completed hardcopy with data and observations 

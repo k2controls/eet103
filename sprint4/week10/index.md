@@ -33,8 +33,13 @@ layout: default
         - Electromagnetic Induction
         - Mutual Inductance
 
-- **Due [Lab 7 - Soldering - Signal Generator](../../labs/l07_sig_gen_build/index.md)***
+- **Due [Lab 7 - Soldering - Signal Generator](../../labs/l07_sig_gen_build/index.md)**
 
+- **Demonstrate DC Power Supply for lab check**
+    - set voltage
+    - set current limit
+    - demonstrate current limit with power resistor
+    
 - **Complete [Lab 10 - Signal Generator with Scope](../../labs/l10_sig_gen_with_scope/){:target='_blank'}**
     - **No lab/video required**
     - **Submit completed hardcopy lab document**
