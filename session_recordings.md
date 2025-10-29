@@ -19,26 +19,29 @@
 - [10/15/2025](https://nmc.zoom.us/rec/share/Ezi-LyQn9isp0FCVRbgQqIrTB15TJtyUvTMe_CN97c6yH73WDys7l_riTUEPI7jN.et5sGXWFcBxEcGqu)
 - [10/20/2025]()
 - [10/22/2025](https://nmc.zoom.us/rec/share/d4rRP6o-FxJ_o6sU8O7awcgrnvk91Q0TX5pZI9NkqJNGZpHRBu9V-5LQUF5KeEQV.JhTof-sZVcDReLGg)
+- [10/27/2025]()
+- [10/29/2025](https://nmc.zoom.us/rec/share/NLKzdyCMwS1g1DfwQ-pqhQTgv37n5CvMi-5hK1BfO7PPLwcNroXxtp2a8TqFEGRG.OCVcXevRtoROQfzw )
+
 
 
 <!--
 
-
-
-- [10/27/2025]()
-- [10/29/2025]()
-- [11/03/2025]()
-- [11/05/2025]()
-- [11/10/2025]()
+w11
+- [11/03/2025]()    sig gen, func gen, buzzer and speaker
+- [11/05/2025]()    Caps and RC
+w12
+- [11/10/2025]()    555 timer
 - [11/12/2025]()
-- [11/17/2025]()
-- [11/19/2025]()
-- [11/24/2025]()
-- [11/26/2025]()
-- [12/01/2025]()
-- [12/03/2025]()
-- [12/08/2025]()
-- [12/10/2025]()
-- [12/15/2025]()
-
+w13
+- [11/17/2025]()    Final project - part 1
+- [11/19/2025]()    Final project 
+w14
+- [11/24/2025]()    Transformers. Final project part 2
+- [11/26/2025]()    Final project
+w15
+- [12/01/2025]()    Relays & Relay Logic - lecture only with worksheet. No lab. Final Project Work
+- [12/03/2025]()    Final Project - Final assembly
+w
+- [12/08/2025]()    Final review, last day for final project lab check
+- [12/10/2025]()    Final Exam, Final video due
 -->
