@@ -8,6 +8,28 @@ layout: default
 
 **Session 2**
 
+- AC Waveforms
+    - Amplitude
+        - Vp
+        - Vpp
+        - V<sub>RMS</sub>
+        - V<sub>RMS</sub> = .707 * Vp (sine wave only!) 
+    - Frequency
+        - Period (T)
+        - Frequency (f=1/T)
+
+![alt text](scope_display.jpg)
+
+- If oscilloscope display is .5mv/div (vertical)
+    - 2.5 div * .5 V/div = 1.25 V peak
+    - 5 div * .5 V/div = 2.5 V peak to peak
+    - V<sub>RMS</sub> = .707 * Vp = .707 * 1.25V = .884 volts = 884 mV 
+
+- If oscilloscope display is .2ms/div (horizontal)
+    - Period: T = 2.5 div * .2ms/div = .5 ms
+    - Frequency: f = 1/T = 1/.5ms = 2000 Hz = 2 KHz     
+
+
 - [Capacitors](https://www.allaboutcircuits.com/textbook/direct-current/chpt-13/electric-fields-capacitance/){:target="_blank"}{:target='_blank'}
     - Electric Fields and Capacitance
     - Capacitors and Calculus
