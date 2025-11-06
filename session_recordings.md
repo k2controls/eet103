@@ -21,14 +21,11 @@
 - [10/22/2025](https://nmc.zoom.us/rec/share/d4rRP6o-FxJ_o6sU8O7awcgrnvk91Q0TX5pZI9NkqJNGZpHRBu9V-5LQUF5KeEQV.JhTof-sZVcDReLGg)
 - [10/27/2025]()
 - [10/29/2025](https://nmc.zoom.us/rec/share/NLKzdyCMwS1g1DfwQ-pqhQTgv37n5CvMi-5hK1BfO7PPLwcNroXxtp2a8TqFEGRG.OCVcXevRtoROQfzw )
-
+- [11/03/2025]() 
+- [11/05/2025](https://nmc.zoom.us/rec/share/AtlUJ6DWXuOuDqzm0FYTZgSlYT_CJUrhQwHWQ16YTQ_cJtzHJDDtbeRXUzZbWuAl.PlrqEaC519QGBKF0) 
 
 
 <!--
-
-w11
-- [11/03/2025]()    sig gen, func gen, buzzer and speaker
-- [11/05/2025]()    Caps and RC
 w12
 - [11/10/2025]()    555 timer
 - [11/12/2025]()
