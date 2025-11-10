@@ -71,7 +71,7 @@ In this lab, students will explore the basics of AC signals, capacitors, and RC 
 
    - Differentiate between **polarized** and **non-polarized** capacitors:
      - Identify at least two types of each and their typical applications.
-<br<br><br>  <br><br><br>  
+<br><br><br>  <br><br><br>  
 
 ---
 
