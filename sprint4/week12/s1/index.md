@@ -41,10 +41,11 @@ layout: default
 
 
 **Session 1**
-    - [Capacitor with DC source](https://everycircuit.com/circuit/5103054453735424){:target='_blank'}
-        - RC time constant τ (R × C) 
-        - Full charge or discharge in 5τ
-    - [Capacitor with Square Wave AC Source](https://everycircuit.com/circuit/6541927687913472){:target='_blank'}
+
+- [Capacitor with DC source](https://everycircuit.com/circuit/5103054453735424){:target='_blank'}
+    - RC time constant τ (R × C) 
+    - Full charge or discharge in 5τ
+- [Capacitor with Square Wave AC Source](https://everycircuit.com/circuit/6541927687913472){:target='_blank'}
 
     
 [Lab 11 - AC, Capacitor, and RC circuits](../../../labs/l11_ac_caps_rc_circuits/index.md){:target='_blank'}
