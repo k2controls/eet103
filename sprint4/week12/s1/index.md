@@ -9,7 +9,7 @@ layout: default
 **Session 1**
 
 - Schedule
-    Week 12
+    - Week 12
         - Today: AC, Capacitor, and RC circuits (Lab 11)
         - Wednesday: 555 Timer intro (Lab 12)
     - Week 13 
