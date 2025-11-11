@@ -23,11 +23,11 @@
 - [10/29/2025](https://nmc.zoom.us/rec/share/NLKzdyCMwS1g1DfwQ-pqhQTgv37n5CvMi-5hK1BfO7PPLwcNroXxtp2a8TqFEGRG.OCVcXevRtoROQfzw )
 - [11/03/2025]() 
 - [11/05/2025](https://nmc.zoom.us/rec/share/AtlUJ6DWXuOuDqzm0FYTZgSlYT_CJUrhQwHWQ16YTQ_cJtzHJDDtbeRXUzZbWuAl.PlrqEaC519QGBKF0) 
-
+- [11/10/2025](https://nmc.zoom.us/rec/share/QHCKb_g7v93hoqW4Bj2GmiemOeYWg3w9xGT2JV420jhbrpGVnSpXFnx9AIJbVO7V.xeeWn6-2W5adMhu0)
 
 <!--
 w12
-- [11/10/2025]()    555 timer
+
 - [11/12/2025]()
 w13
 - [11/17/2025]()    Final project - part 1
