@@ -24,11 +24,11 @@
 - [11/03/2025]() 
 - [11/05/2025](https://nmc.zoom.us/rec/share/AtlUJ6DWXuOuDqzm0FYTZgSlYT_CJUrhQwHWQ16YTQ_cJtzHJDDtbeRXUzZbWuAl.PlrqEaC519QGBKF0) 
 - [11/10/2025](https://nmc.zoom.us/rec/share/QHCKb_g7v93hoqW4Bj2GmiemOeYWg3w9xGT2JV420jhbrpGVnSpXFnx9AIJbVO7V.xeeWn6-2W5adMhu0)
+- [11/12/2025](https://nmc.zoom.us/rec/share/-pW--1gOR8Sdjm6Tgn9u00rgx-jK4LGSQpGH-gbb-k1rwwp69BV2PUL6ebjBV2B2.8-yVbrE3jRYTaSda)
+
 
 <!--
-w12
 
-- [11/12/2025]()
 w13
 - [11/17/2025]()    Final project - part 1
 - [11/19/2025]()    Final project 
