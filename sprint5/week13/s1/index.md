@@ -10,9 +10,7 @@ layout: default
 
 - [555 Lab - Introduction to the 555 Timer IC](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/555-ic/){:target='_blank'}
 
-- [555 Timer Astable Oscillator Circuit](https://www.allaboutcircuits.com/tools/555-timer-astable-circuit/){:target='_blank'} 
-
-- [555 Lab - Red LED Flasher](https://www.allaboutcircuits.com/textbook/experiments/chpt-8/cmos-555-long-duration-minimum-parts-red-led-flasher/){:target='_blank'} 
+- [555 Monostable (one-shot) simulation](https://everycircuit.com/circuit/4825134501986304){:target='_blank'} 
 
 - [555 Astable simulation](https://everycircuit.com/circuit/4775803044495360){:target='_blank'} 
 
