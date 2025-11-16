@@ -47,5 +47,5 @@ layout: default
 - Due: [Lab 12 - 555 Timer Investigation](../../labs/l12_555/index.md){:target='_blank'}
 
 - Next up
-- [Final Project Part 1](../../labs/l13_final_project_part1/Final_Project_555_Timer_Part1.pdf){:target='_blank'}
-- [Final Project Part 2](../../labs/L14_final_project_part2/Final_Project_555_Timer_Part2.pdf){:target='_blank'}
+    - [Final Project Part 1](../../labs/l13_final_project_part1/Final_Project_555_Timer_Part1.pdf){:target='_blank'}
+    - [Final Project Part 2](../../labs/L14_final_project_part2/Final_Project_555_Timer_Part2.pdf){:target='_blank'}
