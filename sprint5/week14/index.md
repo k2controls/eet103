@@ -19,7 +19,7 @@ layout: default
 
 #### [<span style="cursor: pointer;">Session 1</span>](s1/){:target='_blank'}
 
-#### Session 2: No Class. Holiday Break
+#### [<span style="cursor: pointer;">Session 2</span>](s2/){:target='_blank'}
 
 ---
 
