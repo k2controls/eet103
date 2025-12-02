@@ -27,12 +27,11 @@
 - [11/12/2025](https://nmc.zoom.us/rec/share/-pW--1gOR8Sdjm6Tgn9u00rgx-jK4LGSQpGH-gbb-k1rwwp69BV2PUL6ebjBV2B2.8-yVbrE3jRYTaSda)
 - [11/17/2025]()
 - [11/19/2025](https://nmc.zoom.us/rec/share/axeQNzt6QXMonADV1lmTz2rkb1tUTKMtkxQbUWG6cmVwLEtzew3gS1K3nsyDBgsF.WmoKkqjwpblALx2H)
+- [11/24/2025]()    
+- [11/26/2025]()   
+- [12/01/2025](https://nmc.zoom.us/rec/share/s-pu15loa8sNAo5m9LjKcrEPIQrDfP73aB5UyX0jHodccPO7DiND2i3QX2-jorsF.ISB3yFcUBmlD7Yzi)
 
-w14
-- [11/24/2025]()    Transformers. Final project part 2
-- [11/26/2025]()    Final project
-w15
-- [12/01/2025]()    Relays & Relay Logic - lecture only with worksheet. No lab. Final Project Work
+<!--
 - [12/03/2025]()    Final Project - Final assembly
 w
 - [12/08/2025]()    Final review, last day for final project lab check
