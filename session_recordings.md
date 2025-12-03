@@ -30,9 +30,12 @@
 - [11/24/2025]()    
 - [11/26/2025]()   
 - [12/01/2025](https://nmc.zoom.us/rec/share/s-pu15loa8sNAo5m9LjKcrEPIQrDfP73aB5UyX0jHodccPO7DiND2i3QX2-jorsF.ISB3yFcUBmlD7Yzi)
+- [12/03/2025](https://nmc.zoom.us/rec/share/f7Fcyr1zIkZNeofkhGtbe4LysN-Mmh50J_rFm9r6nl_dT6BrTGqwrgkKme934WlM.eMSJw1bUKlQ9x2kX)
+
+
 
 <!--
-- [12/03/2025]()    Final Project - Final assembly
+   Final Project - Final assembly
 w
 - [12/08/2025]()    Final review, last day for final project lab check
 - [12/10/2025]()    Final Exam, Final video due
