@@ -9,6 +9,16 @@ layout: default
 **NOTE:** - - S2 Trigger Switch: Momentary pushbutton switch positioned from K12 to K14.
 
 **Session 2**
+
+- Relays
+    - basic construction
+    - Examples
+    - Review of final project relay
+    - [Relay logic](relay_logic.md)
+    - [Relay Worksheet](https://forms.office.com/Pages/ResponsePage.aspx?id=7d-nLF6sb0SVV1dHONw2EJ6w58fEsdNChe_qBQ1MBUdUNTdPUkZVNzAzVEJCTDFOM0QxOFBZTllFNi4u){:target='_blank'}
+
+<hr>
+
 Components for final build
 - Controller board with final checks 
 - Cup warmer
